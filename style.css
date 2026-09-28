@@ -1,3 +1,4 @@
+
 :root{--olive:#4D694E;--cream:#FFF3D5;--dark:#263b2c;--soft:#f7edcf;--line:#d5d9c5;--muted:#627565;--white:#fffdf6}
 *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--cream);color:var(--dark);font-family:'Helvetica Neue',Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased;font-weight:400}button,input{font:inherit}button{cursor:pointer}button:focus-visible,input:focus-visible,a:focus-visible{outline:3px solid #a1b99a;outline-offset:3px}a{color:var(--olive)}
 .shell{max-width:1200px;margin:auto;padding:0 30px 90px}.mast{display:flex;align-items:center;justify-content:space-between;gap:15px;padding:23px 0;border-bottom:1px solid #c8d0b9}.brand{display:flex;align-items:center;gap:11px;font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.17em}.brand-mark{width:31px;height:31px;background:var(--olive);color:var(--cream);display:grid;place-items:center;font-family:Georgia,serif;font-style:italic;font-size:19px;letter-spacing:0;border-radius:50%}.edition{font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
@@ -254,3 +255,35 @@ body{letter-spacing:-.012em}
 .heart.loved{background:var(--accent);border-color:var(--accent);color:#352928}
 @media(prefers-reduced-motion:reduce){.meal,.category,.nav button,.daybar button,.outletbar button,.filter-group button,.macro-toggle,.loved-toggle,.mute-toggle,.combo-add,.heart{transition:none!important}}
 @media(max-width:760px){.hero{box-shadow:none}.meal:hover,.category:hover{box-shadow:0 3px 16px rgba(38,59,44,.035)}.heart,.utensil-like{border-radius:5px!important}}
+
+/* A full-width desktop menu. Keep the compact phone layout unchanged. */
+@media (min-width: 1100px) {
+  .shell { max-width: 1720px; padding-inline: clamp(28px,3.2vw,64px); }
+  .mast { min-height: 76px; }
+  .content { grid-template-columns: 184px minmax(0,1fr); gap: clamp(24px,2.8vw,48px); padding: 29px 0 0; }
+  .aside { top: 28px; }
+  .nav { padding: 8px; border: 1px solid var(--line); border-radius: 12px; background: var(--white); box-shadow: 0 8px 28px #362b4310; }
+  .nav button { min-height: 48px; padding: 11px 12px; border-radius: 7px; }
+  .panel-head { padding-bottom: 14px; }
+  .panel-head h2 { font-size: clamp(42px,3.7vw,56px); }
+  .like-toolbar { margin-top: 9px; }
+  .daybar { padding: 15px 0; gap: 6px; }
+  .daybar button { min-height: 42px; min-width: 53px; }
+  .meals { grid-template-columns: repeat(3,minmax(0,1fr)); gap: 15px; align-items: start; }
+  .meal { min-width:0; padding: 18px clamp(15px,1.35vw,22px) 10px; border-radius: 11px; }
+  .meal-head { gap: 8px; align-items: baseline; flex-wrap: wrap; min-height: 36px; margin-bottom: 7px; }
+  .meal h3 { font-size: clamp(23px,2.1vw,30px); }
+  .meal-time { font-size: 10px; margin-left: auto; }
+  .dish { min-height: 57px; padding: 9px 0; font-size: 12.5px; align-items: center; }
+  .dish .role { font-size: 10px; }
+  .dish .heart { min-width: 50px; }
+  .meal:nth-child(4) { order: 3; }
+  .meal:nth-child(3) { order: 4; grid-column: 1 / -1; display: grid; grid-template-columns: repeat(3,minmax(0,1fr)); column-gap: 25px; }
+  .meal:nth-child(3) .meal-head { grid-column: 1 / -1; }
+  .footer { padding-inline: 0; }
+}
+@media (min-width: 1100px) and (max-width: 1230px) {
+  .content { grid-template-columns: 160px minmax(0,1fr); gap: 20px; }
+  .meal { padding-inline: 13px; }
+  .meal-time { width: 100%; margin-left: 23px; }
+                                                                                                                                                                                                                                                                       }
