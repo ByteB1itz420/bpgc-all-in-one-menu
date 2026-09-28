@@ -1,7 +1,7 @@
 import React,{useState,useEffect,useRef} from 'react';
-import mapImage from './campus-map-osm.png';
-import surroundingMap from './campus-surrounding-osm.png';
-import worldMap from './world-map-osm.png';
+import mapImage from './campus-map-osm';
+import surroundingMap from './campus-surrounding-osm';
+import worldMap from './world-map-osm';
 import './map.css';
 export type Pin={name:string;group:'Outlet'|'Mess';lat:number;lng:number;url:string;note?:string};
 export const pins:Pin[]=[
