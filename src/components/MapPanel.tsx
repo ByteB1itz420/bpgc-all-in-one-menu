@@ -1,8 +1,6 @@
-import React,{useState,useEffect,useRef} from 'react';
-import mapImage from './campus-map-osm';
-import surroundingMap from './campus-surrounding-osm';
-import worldMap from './world-map-osm';
-import './map.css';
+import {useState,useEffect,useRef} from 'react';
+import '../styles/map.css';
+const mapImage='/map/campus-map-osm.webp',surroundingMap='/map/campus-surrounding-osm.webp',worldMap='/map/world-map-osm.png';
 export type Pin={name:string;group:'Outlet'|'Mess';lat:number;lng:number;url:string;note?:string};
 export const pins:Pin[]=[
  {name:'Gajalakshmi',group:'Outlet',lat:15.3913574,lng:73.8774977,url:'https://www.google.com/maps/search/?api=1&query=Gajalakshmi+Snacks&query_place_id=ChIJR_hUeze4vzsR_2l4NoBQy8Y',note:'Listed as Gajalakshmi Snacks'},
@@ -22,10 +20,10 @@ const merc=(lat:number,lng:number,z:number)=>({x:(lng+180)/360*256*2**z,y:(1-Mat
 const unmerc=(x:number,y:number,z:number)=>({lng:x/(256*2**z)*360-180,lat:Math.atan(Math.sinh(Math.PI*(1-2*y/(256*2**z))))*180/Math.PI});
 function positions(width:number,height:number,center:{lat:number,lng:number},zoom:number){const c=merc(center.lat,center.lng,zoom);const pts=pins.map(p=>{const q=merc(p.lat,p.lng,zoom);return {x:width/2+q.x-c.x,y:height/2+q.y-c.y,ox:width/2+q.x-c.x,oy:height/2+q.y-c.y}});
  if(zoom>=14)for(let k=0;k<30;k++){for(let i=0;i<pts.length;i++)for(let j=i+1;j<pts.length;j++){const a=pts[i],b=pts[j];let dx=b.x-a.x,dy=b.y-a.y;const dist=Math.hypot(dx,dy);if(dist<48){if(dist<0.1){dx=(j-i)%2?1:-1;dy=1}const d=Math.hypot(dx,dy),step=(48-dist)/2;a.x-=dx/d*step;a.y-=dy/d*step;b.x+=dx/d*step;b.y+=dy/d*step}}for(const a of pts){a.x+=(a.ox-a.x)*.015;a.y+=(a.oy-a.y)*.015}}return pts}
-export function MapPanel(){const [selected,setSelected]=useState<Pin>(pins[0]);const [zoom,setZoom]=useState(15);const [center,setCenter]=useState(HOME);const [size,setSize]=useState({width:300,height:225});const [expanded,setExpanded]=useState(false);const plot=useRef<HTMLDivElement>(null),root=useRef<HTMLElement>(null),pointers=useRef(new Map<number,{x:number,y:number}>()),lastPinch=useRef<number|null>(null);
+export default function MapPanel(){const [selected,setSelected]=useState<Pin>(pins[0]);const [zoom,setZoom]=useState(15);const [center,setCenter]=useState(HOME);const [size,setSize]=useState({width:300,height:225});const [expanded,setExpanded]=useState(false);const plot=useRef<HTMLDivElement>(null),root=useRef<HTMLElement>(null),pointers=useRef(new Map<number,{x:number,y:number}>()),lastPinch=useRef<number|null>(null);
  useEffect(()=>{if(!plot.current)return;const ro=new ResizeObserver(([entry])=>setSize({width:entry.contentRect.width,height:entry.contentRect.height}));ro.observe(plot.current);return ()=>ro.disconnect()},[expanded]);
  useEffect(()=>{const onFull=()=>{if(!document.fullscreenElement&&expanded)setExpanded(false)};document.addEventListener('fullscreenchange',onFull);return ()=>document.removeEventListener('fullscreenchange',onFull)},[expanded]);
- const open=()=>{setExpanded(true);const el=root.current;try{void el?.requestFullscreen?.().catch(()=>{})}catch{}};
+ const open=()=>{setExpanded(true);const el=root.current;try{void el?.requestFullscreen?.().catch(()=>{})}catch{/* unsupported */}};
  const close=()=>{if(document.fullscreenElement)void document.exitFullscreen().catch(()=>{});setExpanded(false);setCenter(HOME);setZoom(15)};
  const effective=zoom===14?16:zoom>=15?Math.max(zoom,17+Math.log2(Math.max(size.width/946,size.height/702))):zoom;
  const move=(dx:number,dy:number)=>{const c=merc(center.lat,center.lng,effective),next=unmerc(c.x-dx,c.y-dy,effective);setCenter({lat:Math.max(-82,Math.min(82,next.lat)),lng:Math.max(-180,Math.min(180,next.lng))})};

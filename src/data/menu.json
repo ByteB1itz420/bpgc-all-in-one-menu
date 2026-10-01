@@ -1,0 +1,5324 @@
+{
+ "outlets": [
+  {
+   "name": "Gajalaxmi",
+   "cats": [
+    {
+     "name": "Veg Items",
+     "items": [
+      {
+       "id": "o0-c0-i0",
+       "name": "Vada Pav",
+       "price": 25
+      },
+      {
+       "id": "o0-c0-i1",
+       "name": "Butter Cheese Vada",
+       "price": 55
+      }
+     ]
+    },
+    {
+     "name": "Non-Veg Items",
+     "items": [
+      {
+       "id": "o0-c1-i0",
+       "name": "Omlet Pav (Double)",
+       "price": 50
+      },
+      {
+       "id": "o0-c1-i1",
+       "name": "Half Fry Pav (Double)",
+       "price": 50
+      },
+      {
+       "id": "o0-c1-i2",
+       "name": "Palti Pav (Double)",
+       "price": 50
+      },
+      {
+       "id": "o0-c1-i3",
+       "name": "Cheese Palti Pav (Double)",
+       "price": 65
+      },
+      {
+       "id": "o0-c1-i4",
+       "name": "Butter Cheese Egg Roll",
+       "price": 85
+      },
+      {
+       "id": "o0-c1-i5",
+       "name": "Anda Bhurji Pav",
+       "price": 50
+      },
+      {
+       "id": "o0-c1-i6",
+       "name": "Cheese Anda Bhurji Pav",
+       "price": 65
+      },
+      {
+       "id": "o0-c1-i7",
+       "name": "Veg Burger",
+       "price": 60
+      },
+      {
+       "id": "o0-c1-i8",
+       "name": "Chicken Burger",
+       "price": 70
+      },
+      {
+       "id": "o0-c1-i9",
+       "name": "Veg Burger (Cheese and Butter)",
+       "price": 65
+      },
+      {
+       "id": "o0-c1-i10",
+       "name": "Chicken Burger (Cheese and Butter)",
+       "price": 75
+      }
+     ]
+    },
+    {
+     "name": "Beverage",
+     "items": [
+      {
+       "id": "o0-c2-i0",
+       "name": "Tea",
+       "price": 15
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Foodking",
+   "cats": [
+    {
+     "name": "Dosa",
+     "items": [
+      {
+       "id": "o1-c0-i0",
+       "name": "Plain",
+       "price": 50
+      },
+      {
+       "id": "o1-c0-i1",
+       "name": "Mysore Plain",
+       "price": 62.5
+      },
+      {
+       "id": "o1-c0-i2",
+       "name": "Andhra Mirchi",
+       "price": 62.5
+      },
+      {
+       "id": "o1-c0-i3",
+       "name": "Paper Plain",
+       "price": 62.5
+      },
+      {
+       "id": "o1-c0-i4",
+       "name": "Podi",
+       "price": 62.5
+      },
+      {
+       "id": "o1-c0-i5",
+       "name": "Masala",
+       "price": 68.75
+      },
+      {
+       "id": "o1-c0-i6",
+       "name": "Onion",
+       "price": 68.75
+      },
+      {
+       "id": "o1-c0-i7",
+       "name": "Mysore Onion",
+       "price": 75
+      },
+      {
+       "id": "o1-c0-i8",
+       "name": "Mysore Masala",
+       "price": 75
+      },
+      {
+       "id": "o1-c0-i9",
+       "name": "Paper Masala",
+       "price": 75
+      },
+      {
+       "id": "o1-c0-i10",
+       "name": "Egg",
+       "price": 75
+      },
+      {
+       "id": "o1-c0-i11",
+       "name": "Andhra Mirchi Masala",
+       "price": 75
+      },
+      {
+       "id": "o1-c0-i12",
+       "name": "Ghee Roast",
+       "price": 80
+      },
+      {
+       "id": "o1-c0-i13",
+       "name": "Onion Masala",
+       "price": 80
+      },
+      {
+       "id": "o1-c0-i14",
+       "name": "Egg Mysore",
+       "price": 80
+      },
+      {
+       "id": "o1-c0-i15",
+       "name": "Egg Podi",
+       "price": 80
+      },
+      {
+       "id": "o1-c0-i16",
+       "name": "Egg Andhra Mirchi",
+       "price": 80
+      },
+      {
+       "id": "o1-c0-i17",
+       "name": "Mysore Onion Masala",
+       "price": 85
+      },
+      {
+       "id": "o1-c0-i18",
+       "name": "Paneer",
+       "price": 90
+      },
+      {
+       "id": "o1-c0-i19",
+       "name": "Mysore Paneer",
+       "price": 95
+      }
+     ]
+    },
+    {
+     "name": "Rava Dosa",
+     "items": [
+      {
+       "id": "o1-c1-i0",
+       "name": "Plain",
+       "price": 50
+      },
+      {
+       "id": "o1-c1-i1",
+       "name": "Mysore Plain",
+       "price": 60
+      },
+      {
+       "id": "o1-c1-i2",
+       "name": "Andhra Mirchi Plain",
+       "price": 60
+      },
+      {
+       "id": "o1-c1-i3",
+       "name": "Masala",
+       "price": 65
+      },
+      {
+       "id": "o1-c1-i4",
+       "name": "Onion Rava",
+       "price": 65
+      },
+      {
+       "id": "o1-c1-i5",
+       "name": "Mysore Masala",
+       "price": 75
+      },
+      {
+       "id": "o1-c1-i6",
+       "name": "Mysore Onion",
+       "price": 75
+      },
+      {
+       "id": "o1-c1-i7",
+       "name": "Onion Masala",
+       "price": 85
+      },
+      {
+       "id": "o1-c1-i8",
+       "name": "Mysore Onion Masala",
+       "price": 85
+      },
+      {
+       "id": "o1-c1-i9",
+       "name": "Paneer",
+       "price": 90
+      }
+     ]
+    },
+    {
+     "name": "Uthappam",
+     "items": [
+      {
+       "id": "o1-c2-i0",
+       "name": "Plain",
+       "price": 50
+      },
+      {
+       "id": "o1-c2-i1",
+       "name": "Podi",
+       "price": 60
+      },
+      {
+       "id": "o1-c2-i2",
+       "name": "Onion",
+       "price": 65
+      },
+      {
+       "id": "o1-c2-i3",
+       "name": "Tomato",
+       "price": 65
+      },
+      {
+       "id": "o1-c2-i4",
+       "name": "Masala",
+       "price": 65
+      },
+      {
+       "id": "o1-c2-i5",
+       "name": "Onion Masala",
+       "price": 80
+      },
+      {
+       "id": "o1-c2-i6",
+       "name": "Onion Tomato",
+       "price": 80
+      },
+      {
+       "id": "o1-c2-i7",
+       "name": "Onion Tomato Masala",
+       "price": 85
+      },
+      {
+       "id": "o1-c2-i8",
+       "name": "Podi Onion Tomato",
+       "price": 85
+      }
+     ]
+    },
+    {
+     "name": "Parathas (2 pcs)",
+     "items": [
+      {
+       "id": "o1-c3-i0",
+       "name": "Aloo 2 (Pcs)",
+       "price": 75
+      },
+      {
+       "id": "o1-c3-i1",
+       "name": "Gobi 2 (Pcs)",
+       "price": 75
+      },
+      {
+       "id": "o1-c3-i2",
+       "name": "Onion 2 (Pcs)",
+       "price": 75
+      },
+      {
+       "id": "o1-c3-i3",
+       "name": "Mix (Aloo & Onion) 2 (Pcs)",
+       "price": 85
+      },
+      {
+       "id": "o1-c3-i4",
+       "name": "Paneer 2 (Pcs)",
+       "price": 100
+      }
+     ]
+    },
+    {
+     "name": "Maggi",
+     "items": [
+      {
+       "id": "o1-c4-i0",
+       "name": "Plain",
+       "price": 40
+      },
+      {
+       "id": "o1-c4-i1",
+       "name": "Masala",
+       "price": 50
+      },
+      {
+       "id": "o1-c4-i2",
+       "name": "Fried",
+       "price": 49
+      },
+      {
+       "id": "o1-c4-i3",
+       "name": "Cheese",
+       "price": 55
+      },
+      {
+       "id": "o1-c4-i4",
+       "name": "Masala Cheese",
+       "price": 65
+      },
+      {
+       "id": "o1-c4-i5",
+       "name": "Fried Cheese",
+       "price": 65
+      },
+      {
+       "id": "o1-c4-i6",
+       "name": "Paneer Fried",
+       "price": 75
+      },
+      {
+       "id": "o1-c4-i7",
+       "name": "Chicken",
+       "price": 75
+      },
+      {
+       "id": "o1-c4-i8",
+       "name": "Paneer Fried Cheese",
+       "price": 85
+      }
+     ]
+    },
+    {
+     "name": "Burger",
+     "items": [
+      {
+       "id": "o1-c5-i0",
+       "name": "Veg",
+       "price": 50
+      },
+      {
+       "id": "o1-c5-i1",
+       "name": "Veg Cheese",
+       "price": 65
+      },
+      {
+       "id": "o1-c5-i2",
+       "name": "Chicken",
+       "price": 70
+      },
+      {
+       "id": "o1-c5-i3",
+       "name": "Chicken Cheese",
+       "price": 80
+      }
+     ]
+    },
+    {
+     "name": "Omelet",
+     "items": [
+      {
+       "id": "o1-c6-i0",
+       "name": "Single Omelet",
+       "price": 25
+      },
+      {
+       "id": "o1-c6-i1",
+       "name": "Single Masala Omelet",
+       "price": 30
+      },
+      {
+       "id": "o1-c6-i2",
+       "name": "Double Omelet",
+       "price": 40
+      },
+      {
+       "id": "o1-c6-i3",
+       "name": "Single Bread Omelet",
+       "price": 40
+      },
+      {
+       "id": "o1-c6-i4",
+       "name": "Double Bread Omelet",
+       "price": 55
+      },
+      {
+       "id": "o1-c6-i5",
+       "name": "Masala Double Bread Omelet",
+       "price": 65
+      }
+     ]
+    },
+    {
+     "name": "Sandwich",
+     "items": [
+      {
+       "id": "o1-c7-i0",
+       "name": "Masala",
+       "price": 50
+      },
+      {
+       "id": "o1-c7-i1",
+       "name": "Plain Cheese",
+       "price": 50
+      },
+      {
+       "id": "o1-c7-i2",
+       "name": "Masala Cheese",
+       "price": 65
+      },
+      {
+       "id": "o1-c7-i3",
+       "name": "Veg (Masala)",
+       "price": 60
+      },
+      {
+       "id": "o1-c7-i4",
+       "name": "Egg",
+       "price": 75
+      },
+      {
+       "id": "o1-c7-i5",
+       "name": "Paneer",
+       "price": 80
+      },
+      {
+       "id": "o1-c7-i6",
+       "name": "Chicken",
+       "price": 80
+      }
+     ]
+    },
+    {
+     "name": "Frankies",
+     "items": [
+      {
+       "id": "o1-c8-i0",
+       "name": "Veg",
+       "price": 50
+      },
+      {
+       "id": "o1-c8-i1",
+       "name": "Egg",
+       "price": 55
+      },
+      {
+       "id": "o1-c8-i2",
+       "name": "Paneer",
+       "price": 60
+      },
+      {
+       "id": "o1-c8-i3",
+       "name": "Chicken",
+       "price": 70
+      }
+     ]
+    },
+    {
+     "name": "Hot Beverages",
+     "items": [
+      {
+       "id": "o1-c9-i0",
+       "name": "Coffee",
+       "price": 18
+      },
+      {
+       "id": "o1-c9-i1",
+       "name": "Tea",
+       "price": 18
+      },
+      {
+       "id": "o1-c9-i2",
+       "name": "Black Tea",
+       "price": 15
+      },
+      {
+       "id": "o1-c9-i3",
+       "name": "Black Coffee",
+       "price": 15
+      },
+      {
+       "id": "o1-c9-i4",
+       "name": "Hot Bournvita (Big)",
+       "price": 50
+      },
+      {
+       "id": "o1-c9-i5",
+       "name": "Hot Boost (Big)",
+       "price": 50
+      },
+      {
+       "id": "o1-c9-i6",
+       "name": "Hot Horlicks (Big)",
+       "price": 50
+      },
+      {
+       "id": "o1-c9-i7",
+       "name": "Hot Badam (Big)",
+       "price": 50
+      }
+     ]
+    },
+    {
+     "name": "Quick Bites",
+     "items": [
+      {
+       "id": "o1-c10-i0",
+       "name": "Veg Patties",
+       "price": 25
+      },
+      {
+       "id": "o1-c10-i1",
+       "name": "Egg Patties",
+       "price": 30
+      },
+      {
+       "id": "o1-c10-i2",
+       "name": "Paneer Patties",
+       "price": 30
+      },
+      {
+       "id": "o1-c10-i3",
+       "name": "Chocolate Donuts",
+       "price": 40
+      },
+      {
+       "id": "o1-c10-i4",
+       "name": "Chicken Patties",
+       "price": 40
+      }
+     ]
+    },
+    {
+     "name": "Fresh Fruit Juice",
+     "items": [
+      {
+       "id": "o1-c11-i0",
+       "name": "Mosambi",
+       "price": 55
+      },
+      {
+       "id": "o1-c11-i1",
+       "name": "Orange",
+       "price": 55
+      },
+      {
+       "id": "o1-c11-i2",
+       "name": "Water Melon",
+       "price": 55
+      },
+      {
+       "id": "o1-c11-i3",
+       "name": "Pineapple",
+       "price": 55
+      }
+     ]
+    },
+    {
+     "name": "Milk Shakes",
+     "items": [
+      {
+       "id": "o1-c12-i0",
+       "name": "Banana",
+       "price": 55
+      },
+      {
+       "id": "o1-c12-i1",
+       "name": "Badam",
+       "price": 55
+      },
+      {
+       "id": "o1-c12-i2",
+       "name": "Oreo",
+       "price": 60
+      },
+      {
+       "id": "o1-c12-i3",
+       "name": "Coffee Oreo",
+       "price": 70
+      }
+     ]
+    },
+    {
+     "name": "Cold Beverages",
+     "items": [
+      {
+       "id": "o1-c13-i0",
+       "name": "Cold Coffee",
+       "price": 55
+      },
+      {
+       "id": "o1-c13-i1",
+       "name": "Cold Bournvita",
+       "price": 55
+      },
+      {
+       "id": "o1-c13-i2",
+       "name": "Cold Boost",
+       "price": 55
+      },
+      {
+       "id": "o1-c13-i3",
+       "name": "Cold Horlicks",
+       "price": 55
+      },
+      {
+       "id": "o1-c13-i4",
+       "name": "Rose Milk",
+       "price": 55
+      },
+      {
+       "id": "o1-c13-i5",
+       "name": "Extra Cheese / Butter",
+       "price": 20
+      },
+      {
+       "id": "o1-c13-i6",
+       "name": "Extra Ghee",
+       "price": 30
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "INS",
+   "cats": [
+    {
+     "name": "Fresh Juices (200ml)",
+     "items": [
+      {
+       "id": "o2-c0-i0",
+       "name": "Lime Juice",
+       "price": 30
+      },
+      {
+       "id": "o2-c0-i1",
+       "name": "Lime Soda",
+       "price": 28
+      },
+      {
+       "id": "o2-c0-i2",
+       "name": "Tangy Lime Juice",
+       "price": 28
+      },
+      {
+       "id": "o2-c0-i3",
+       "name": "Mousambl Juice",
+       "price": 50
+      },
+      {
+       "id": "o2-c0-i4",
+       "name": "Pineapple Juice",
+       "price": 55
+      },
+      {
+       "id": "o2-c0-i5",
+       "name": "Orange Juice",
+       "price": 55
+      },
+      {
+       "id": "o2-c0-i6",
+       "name": "Mixed Fruit Juice",
+       "price": 55
+      },
+      {
+       "id": "o2-c0-i7",
+       "name": "Coke Float",
+       "price": 55
+      },
+      {
+       "id": "o2-c0-i8",
+       "name": "Water Melon Juice",
+       "price": 50
+      },
+      {
+       "id": "o2-c0-i9",
+       "name": "Grape Juice",
+       "price": 55
+      }
+     ]
+    },
+    {
+     "name": "Special Ice Cream Shakes (200ml)",
+     "items": [
+      {
+       "id": "o2-c1-i0",
+       "name": "Apple Shake",
+       "price": 47
+      },
+      {
+       "id": "o2-c1-i1",
+       "name": "Chickoo Shake",
+       "price": 47
+      },
+      {
+       "id": "o2-c1-i2",
+       "name": "Coffee Shake",
+       "price": 55
+      },
+      {
+       "id": "o2-c1-i3",
+       "name": "Bournvita Shake",
+       "price": 44
+      },
+      {
+       "id": "o2-c1-i4",
+       "name": "Vanila Shake",
+       "price": 60
+      },
+      {
+       "id": "o2-c1-i5",
+       "name": "Chocolate Shake",
+       "price": 62
+      },
+      {
+       "id": "o2-c1-i6",
+       "name": "Butter Scotch Shake",
+       "price": 62
+      },
+      {
+       "id": "o2-c1-i7",
+       "name": "Black Current Shake",
+       "price": 62
+      },
+      {
+       "id": "o2-c1-i8",
+       "name": "Badam Shake",
+       "price": 50
+      },
+      {
+       "id": "o2-c1-i9",
+       "name": "Oreo Shake",
+       "price": 65
+      },
+      {
+       "id": "o2-c1-i10",
+       "name": "Stawraberry Shake",
+       "price": 53
+      },
+      {
+       "id": "o2-c1-i11",
+       "name": "Sharja Shake",
+       "price": 65
+      },
+      {
+       "id": "o2-c1-i12",
+       "name": "Mango Shake",
+       "price": 75
+      },
+      {
+       "id": "o2-c1-i13",
+       "name": "Rose Shake",
+       "price": 70
+      },
+      {
+       "id": "o2-c1-i14",
+       "name": "Black Forest Shake",
+       "price": 70
+      }
+     ]
+    },
+    {
+     "name": "Hot Beverages (90ml)",
+     "items": [
+      {
+       "id": "o2-c2-i0",
+       "name": "Hot Tea",
+       "price": 20
+      },
+      {
+       "id": "o2-c2-i1",
+       "name": "Hot Coffee",
+       "price": 20
+      },
+      {
+       "id": "o2-c2-i2",
+       "name": "Hot Chocolates",
+       "price": 20
+      },
+      {
+       "id": "o2-c2-i3",
+       "name": "Hot Bournvita",
+       "price": 20
+      },
+      {
+       "id": "o2-c2-i4",
+       "name": "Hot Badam",
+       "price": 20
+      },
+      {
+       "id": "o2-c2-i5",
+       "name": "Hot Horlicks",
+       "price": 20
+      }
+     ]
+    },
+    {
+     "name": "Sips & Snacks",
+     "items": [
+      {
+       "id": "o2-c3-i0",
+       "name": "Gadbad",
+       "price": 75
+      },
+      {
+       "id": "o2-c3-i1",
+       "name": "Vegetable Puffs",
+       "price": 25
+      },
+      {
+       "id": "o2-c3-i2",
+       "name": "Paneer Puffs",
+       "price": 30
+      },
+      {
+       "id": "o2-c3-i3",
+       "name": "Chicken Puffs",
+       "price": 30
+      },
+      {
+       "id": "o2-c3-i4",
+       "name": "Cheese Roll",
+       "price": 62
+      },
+      {
+       "id": "o2-c3-i5",
+       "name": "Veg. Roll",
+       "price": 38
+      },
+      {
+       "id": "o2-c3-i6",
+       "name": "Panner Bhurji Roll",
+       "price": 40
+      },
+      {
+       "id": "o2-c3-i7",
+       "name": "Chicken Roll",
+       "price": 65
+      },
+      {
+       "id": "o2-c3-i8",
+       "name": "Special Grilled Cheese Sandwich",
+       "price": 40
+      },
+      {
+       "id": "o2-c3-i9",
+       "name": "Veg. Grilled Cheese Sandwich",
+       "price": 40
+      },
+      {
+       "id": "o2-c3-i10",
+       "name": "Chicken Grilled Sandwich",
+       "price": 65
+      },
+      {
+       "id": "o2-c3-i11",
+       "name": "Chicken Club sandwich",
+       "price": 80
+      },
+      {
+       "id": "o2-c3-i12",
+       "name": "Veg. Burger",
+       "price": 65
+      },
+      {
+       "id": "o2-c3-i13",
+       "name": "Cheese Burger",
+       "price": 75
+      },
+      {
+       "id": "o2-c3-i14",
+       "name": "Chicken Burger",
+       "price": 90
+      },
+      {
+       "id": "o2-c3-i15",
+       "name": "Aloo Tikki",
+       "price": 60
+      },
+      {
+       "id": "o2-c3-i16",
+       "name": "Veg. Maggie Noodles",
+       "price": 45
+      },
+      {
+       "id": "o2-c3-i17",
+       "name": "Cheese Maggie",
+       "price": 55
+      },
+      {
+       "id": "o2-c3-i18",
+       "name": "Shawarma",
+       "price": 80
+      }
+     ]
+    },
+    {
+     "name": "Pizzas (8 inches)",
+     "items": [
+      {
+       "id": "o2-c4-i0",
+       "name": "Plain Cheese Pizza",
+       "price": 120
+      },
+      {
+       "id": "o2-c4-i1",
+       "name": "Veg. Pizza",
+       "price": 120
+      },
+      {
+       "id": "o2-c4-i2",
+       "name": "Mushroom Pizza",
+       "price": 120
+      },
+      {
+       "id": "o2-c4-i3",
+       "name": "Mushroom Pineapple Pizza",
+       "price": 120
+      },
+      {
+       "id": "o2-c4-i4",
+       "name": "Chicken Pizza",
+       "price": 135
+      }
+     ]
+    },
+    {
+     "name": "Soups & Chinese (Mini Meals)",
+     "items": [
+      {
+       "id": "o2-c5-i0",
+       "name": "Veg. Corn Soup",
+       "price": 45
+      },
+      {
+       "id": "o2-c5-i1",
+       "name": "Veg. Hot&Sour Soup",
+       "price": 45
+      },
+      {
+       "id": "o2-c5-i2",
+       "name": "Chicken Corn Soup",
+       "price": 55
+      },
+      {
+       "id": "o2-c5-i3",
+       "name": "Chicken Hot&sour Soup",
+       "price": 60
+      },
+      {
+       "id": "o2-c5-i4",
+       "name": "Veg. Chowmin",
+       "price": 55
+      },
+      {
+       "id": "o2-c5-i5",
+       "name": "Paneer Chowmin",
+       "price": 60
+      },
+      {
+       "id": "o2-c5-i6",
+       "name": "Chicken Triple Chowmin",
+       "price": 75
+      },
+      {
+       "id": "o2-c5-i7",
+       "name": "Chicken Fried Rice",
+       "price": 75
+      },
+      {
+       "id": "o2-c5-i8",
+       "name": "Chicken Momos",
+       "price": 75
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Nescafe",
+   "cats": [
+    {
+     "name": "Maggi Noodles",
+     "items": [
+      {
+       "id": "o3-c0-i0",
+       "name": "Original Masala Maggi",
+       "price": 42
+      },
+      {
+       "id": "o3-c0-i1",
+       "name": "Tomato Chatpata Maggi",
+       "price": 42
+      },
+      {
+       "id": "o3-c0-i2",
+       "name": "Capsicum Maggi",
+       "price": 42
+      }
+     ]
+    },
+    {
+     "name": "Noodles - Premium",
+     "items": [
+      {
+       "id": "o3-c1-i0",
+       "name": "Special Masala Maggi",
+       "price": 53
+      },
+      {
+       "id": "o3-c1-i1",
+       "name": "Double Masala Maggi",
+       "price": 53
+      },
+      {
+       "id": "o3-c1-i2",
+       "name": "Atta Masala Maggi",
+       "price": 53
+      },
+      {
+       "id": "o3-c1-i3",
+       "name": "Garlic Butter Maggi",
+       "price": 63
+      },
+      {
+       "id": "o3-c1-i4",
+       "name": "Periperi Maggi",
+       "price": 53
+      },
+      {
+       "id": "o3-c1-i5",
+       "name": "Fresh Pepper Maggi",
+       "price": 53
+      }
+     ]
+    },
+    {
+     "name": "Noodles - Exotic",
+     "items": [
+      {
+       "id": "o3-c2-i0",
+       "name": "Oregano Maggi",
+       "price": 63
+      },
+      {
+       "id": "o3-c2-i1",
+       "name": "Barbeque Maggi",
+       "price": 63
+      },
+      {
+       "id": "o3-c2-i2",
+       "name": "Chilli Garlic Maggi",
+       "price": 63
+      },
+      {
+       "id": "o3-c2-i3",
+       "name": "Butter Double Masala Maggi",
+       "price": 63
+      },
+      {
+       "id": "o3-c2-i4",
+       "name": "Chilli Paneer Maggi",
+       "price": 74
+      },
+      {
+       "id": "o3-c2-i5",
+       "name": "Korean Maggi",
+       "price": 98
+      },
+      {
+       "id": "o3-c2-i6",
+       "name": "Manchurian Maggi",
+       "price": 63
+      }
+     ]
+    },
+    {
+     "name": "Pazzta",
+     "items": [
+      {
+       "id": "o3-c3-i0",
+       "name": "Oregano Cheese Pasta",
+       "price": 85
+      },
+      {
+       "id": "o3-c3-i1",
+       "name": "Tomato Pasta",
+       "price": 85
+      }
+     ]
+    },
+    {
+     "name": "Sweet Corn",
+     "items": [
+      {
+       "id": "o3-c4-i0",
+       "name": "Masala-ae-Magic Sweet Corn",
+       "price": 63
+      },
+      {
+       "id": "o3-c4-i1",
+       "name": "Lemon butter Sweet corn",
+       "price": 63
+      }
+     ]
+    },
+    {
+     "name": "Coffee - Select",
+     "items": [
+      {
+       "id": "o3-c5-i0",
+       "name": "Coffee regular",
+       "price": 22
+      },
+      {
+       "id": "o3-c5-i1",
+       "name": "Hot chocolate small",
+       "price": 24
+      },
+      {
+       "id": "o3-c5-i2",
+       "name": "Tea",
+       "price": 20
+      },
+      {
+       "id": "o3-c5-i3",
+       "name": "Hot Green Tea",
+       "price": 20
+      }
+     ]
+    },
+    {
+     "name": "Coffee - Premium",
+     "items": [
+      {
+       "id": "o3-c6-i0",
+       "name": "Espresso",
+       "price": 33
+      },
+      {
+       "id": "o3-c6-i1",
+       "name": "Ice Espresso",
+       "price": 35
+      },
+      {
+       "id": "o3-c6-i2",
+       "name": "Masala Tea",
+       "price": 30
+      }
+     ]
+    },
+    {
+     "name": "Coffee - Exotic",
+     "items": [
+      {
+       "id": "o3-c7-i0",
+       "name": "Americano",
+       "price": 44
+      },
+      {
+       "id": "o3-c7-i1",
+       "name": "Cappuccino",
+       "price": 52
+      },
+      {
+       "id": "o3-c7-i2",
+       "name": "Café Latte",
+       "price": 52
+      },
+      {
+       "id": "o3-c7-i3",
+       "name": "Hot Chocolate big",
+       "price": 46
+      }
+     ]
+    },
+    {
+     "name": "Coffee - Limited",
+     "items": [
+      {
+       "id": "o3-c8-i0",
+       "name": "Cappuccino Strong",
+       "price": 68
+      },
+      {
+       "id": "o3-c8-i1",
+       "name": "Irish Cappuccino",
+       "price": 68
+      },
+      {
+       "id": "o3-c8-i2",
+       "name": "Caramel Cappuccino",
+       "price": 68
+      },
+      {
+       "id": "o3-c8-i3",
+       "name": "Hazel Nut Cappuccino",
+       "price": 68
+      }
+     ]
+    },
+    {
+     "name": "Coolers - Regular",
+     "items": [
+      {
+       "id": "o3-c9-i0",
+       "name": "Lemon Ice Tea",
+       "price": 42
+      },
+      {
+       "id": "o3-c9-i1",
+       "name": "Special Masala Ice Tea",
+       "price": 63
+      },
+      {
+       "id": "o3-c9-i2",
+       "name": "Mojito Ice Tea",
+       "price": 63
+      },
+      {
+       "id": "o3-c9-i3",
+       "name": "Strawberry Ice Tea",
+       "price": 63
+      },
+      {
+       "id": "o3-c9-i4",
+       "name": "Peach Ice Tea",
+       "price": 63
+      },
+      {
+       "id": "o3-c9-i5",
+       "name": "Watermelon",
+       "price": 63
+      },
+      {
+       "id": "o3-c9-i6",
+       "name": "Rose Ice Tea",
+       "price": 63
+      }
+     ]
+    },
+    {
+     "name": "Cold Coffee, Chocolate & Others - Regular/Large",
+     "items": [
+      {
+       "id": "o3-c10-i0",
+       "name": "Frappe ( Cold Coffee )",
+       "price": 60
+      },
+      {
+       "id": "o3-c10-i1",
+       "name": "Frappe Mocha",
+       "price": 60
+      },
+      {
+       "id": "o3-c10-i2",
+       "name": "Cold Cholcolate",
+       "price": 60
+      },
+      {
+       "id": "o3-c10-i3",
+       "name": "Irish Frappe",
+       "price": 78
+      },
+      {
+       "id": "o3-c10-i4",
+       "name": "Caramel Frappe",
+       "price": 78
+      },
+      {
+       "id": "o3-c10-i5",
+       "name": "Honey Frappe",
+       "price": 78
+      },
+      {
+       "id": "o3-c10-i6",
+       "name": "Chocolate Frappe",
+       "price": 78
+      },
+      {
+       "id": "o3-c10-i7",
+       "name": "Hazelnut Frappe",
+       "price": 79
+      },
+      {
+       "id": "o3-c10-i8",
+       "name": "Kitkat Frappe",
+       "price": 79
+      },
+      {
+       "id": "o3-c10-i9",
+       "name": "Munch Nuts Frappe",
+       "price": 79
+      },
+      {
+       "id": "o3-c10-i10",
+       "name": "Cookie Frappe",
+       "price": 79
+      }
+     ]
+    },
+    {
+     "name": "Thick Shakes",
+     "items": [
+      {
+       "id": "o3-c11-i0",
+       "name": "kitkat shake",
+       "price": 90
+      },
+      {
+       "id": "o3-c11-i1",
+       "name": "Munch Nuts shake",
+       "price": 90
+      },
+      {
+       "id": "o3-c11-i2",
+       "name": "strawberry shake",
+       "price": 90
+      },
+      {
+       "id": "o3-c11-i3",
+       "name": "Mango Thick shake",
+       "price": 90
+      },
+      {
+       "id": "o3-c11-i4",
+       "name": "Fresh Brewed Coffee Thick Shake",
+       "price": 90
+      },
+      {
+       "id": "o3-c11-i5",
+       "name": "Nescafe cold thick shake",
+       "price": 90
+      },
+      {
+       "id": "o3-c11-i6",
+       "name": "Date thick shake",
+       "price": 90
+      },
+      {
+       "id": "o3-c11-i7",
+       "name": "Oreo thick shake",
+       "price": 90
+      },
+      {
+       "id": "o3-c11-i8",
+       "name": "Caramel shake",
+       "price": 90
+      },
+      {
+       "id": "o3-c11-i9",
+       "name": "Hazelnut shake",
+       "price": 90
+      },
+      {
+       "id": "o3-c11-i10",
+       "name": "Irish shake",
+       "price": 90
+      },
+      {
+       "id": "o3-c11-i11",
+       "name": "Black Currant thick shake",
+       "price": 90
+      }
+     ]
+    },
+    {
+     "name": "Sandwiches",
+     "items": [
+      {
+       "id": "o3-c12-i0",
+       "name": "Bread Butter",
+       "price": 35
+      },
+      {
+       "id": "o3-c12-i1",
+       "name": "Veg Sandwich",
+       "price": 40
+      },
+      {
+       "id": "o3-c12-i2",
+       "name": "Cheese Chutney Sandwich",
+       "price": 53
+      },
+      {
+       "id": "o3-c12-i3",
+       "name": "Chutney sandwich",
+       "price": 42
+      }
+     ]
+    },
+    {
+     "name": "Open Toast",
+     "items": [
+      {
+       "id": "o3-c13-i0",
+       "name": "Cheese Garlic Bread",
+       "price": 85
+      },
+      {
+       "id": "o3-c13-i1",
+       "name": "Cheese Chilli Garlic Bread",
+       "price": 90
+      },
+      {
+       "id": "o3-c13-i2",
+       "name": "Asian garlic bread",
+       "price": 98
+      }
+     ]
+    },
+    {
+     "name": "Grill Sandwich",
+     "items": [
+      {
+       "id": "o3-c14-i0",
+       "name": "Cheese corn grilled sandwich",
+       "price": 83
+      },
+      {
+       "id": "o3-c14-i1",
+       "name": "Veg Grill Sandwich",
+       "price": 78
+      },
+      {
+       "id": "o3-c14-i2",
+       "name": "Paneer Tikka sandwich",
+       "price": 95
+      },
+      {
+       "id": "o3-c14-i3",
+       "name": "Paneer masala sandwich",
+       "price": 85
+      },
+      {
+       "id": "o3-c14-i4",
+       "name": "Cheese grilled sandwich",
+       "price": 65
+      }
+     ]
+    },
+    {
+     "name": "Fries",
+     "items": [
+      {
+       "id": "o3-c15-i0",
+       "name": "Salted Fries",
+       "price": 64
+      },
+      {
+       "id": "o3-c15-i1",
+       "name": "Peri Peri Fries",
+       "price": 79
+      },
+      {
+       "id": "o3-c15-i2",
+       "name": "Masala ae Magic fries",
+       "price": 79
+      },
+      {
+       "id": "o3-c15-i3",
+       "name": "Cheezy Fries",
+       "price": 90
+      }
+     ]
+    },
+    {
+     "name": "Freshly Made",
+     "items": [
+      {
+       "id": "o3-c16-i0",
+       "name": "Bread omlette",
+       "price": 55
+      },
+      {
+       "id": "o3-c16-i1",
+       "name": "Masala omlette",
+       "price": 45
+      },
+      {
+       "id": "o3-c16-i2",
+       "name": "Plain omlette",
+       "price": 35
+      },
+      {
+       "id": "o3-c16-i3",
+       "name": "Egg Half fry",
+       "price": 35
+      },
+      {
+       "id": "o3-c16-i4",
+       "name": "Egg full fry",
+       "price": 35
+      },
+      {
+       "id": "o3-c16-i5",
+       "name": "Masala cheese omlette",
+       "price": 68
+      },
+      {
+       "id": "o3-c16-i6",
+       "name": "Bread cheese omlette",
+       "price": 75
+      },
+      {
+       "id": "o3-c16-i7",
+       "name": "Jungly fried egg",
+       "price": 45
+      },
+      {
+       "id": "o3-c16-i8",
+       "name": "Egg bhurji",
+       "price": 50
+      },
+      {
+       "id": "o3-c16-i9",
+       "name": "Mushroom cheese omlette",
+       "price": 75
+      },
+      {
+       "id": "o3-c16-i10",
+       "name": "Cheese Omlette",
+       "price": 55
+      }
+     ]
+    },
+    {
+     "name": "Bakery Items",
+     "items": [
+      {
+       "id": "o3-c17-i0",
+       "name": "Caramel Brownie",
+       "price": 86
+      },
+      {
+       "id": "o3-c17-i1",
+       "name": "Choc donut",
+       "price": 85
+      },
+      {
+       "id": "o3-c17-i2",
+       "name": "Custard donut",
+       "price": 75
+      },
+      {
+       "id": "o3-c17-i3",
+       "name": "Walnut Brownie",
+       "price": 86
+      },
+      {
+       "id": "o3-c17-i4",
+       "name": "Chicken Burger",
+       "price": 75
+      },
+      {
+       "id": "o3-c17-i5",
+       "name": "Vegetable Burger",
+       "price": 75
+      },
+      {
+       "id": "o3-c17-i6",
+       "name": "Veg Patties",
+       "price": 22
+      },
+      {
+       "id": "o3-c17-i7",
+       "name": "Chicken Pattice",
+       "price": 35
+      }
+     ]
+    },
+    {
+     "name": "Chicken Rolls",
+     "items": [
+      {
+       "id": "o3-c18-i0",
+       "name": "Paprika chicken roll",
+       "price": 85
+      },
+      {
+       "id": "o3-c18-i1",
+       "name": "Chicken tikka roll",
+       "price": 94
+      },
+      {
+       "id": "o3-c18-i2",
+       "name": "Spicy barbeque chicken roll",
+       "price": 85
+      },
+      {
+       "id": "o3-c18-i3",
+       "name": "Paneer tikka roll",
+       "price": 85
+      },
+      {
+       "id": "o3-c18-i4",
+       "name": "Double Egg roll",
+       "price": 70
+      },
+      {
+       "id": "o3-c18-i5",
+       "name": "Egg roll",
+       "price": 55
+      },
+      {
+       "id": "o3-c18-i6",
+       "name": "Mushroom masala roll",
+       "price": 75
+      },
+      {
+       "id": "o3-c18-i7",
+       "name": "Spicy barbeque paneer roll",
+       "price": 85
+      },
+      {
+       "id": "o3-c18-i8",
+       "name": "Peri peri chicken roll",
+       "price": 85
+      }
+     ]
+    },
+    {
+     "name": "Chicken/Egg Sandwich",
+     "items": [
+      {
+       "id": "o3-c19-i0",
+       "name": "Egg cheese grilled sandwich",
+       "price": 79
+      },
+      {
+       "id": "o3-c19-i1",
+       "name": "Paprika chicken grilled sandwich",
+       "price": 94
+      },
+      {
+       "id": "o3-c19-i2",
+       "name": "Chicken tikka sandwich",
+       "price": 98
+      },
+      {
+       "id": "o3-c19-i3",
+       "name": "Spicy barbeque chicken sandwich",
+       "price": 94
+      },
+      {
+       "id": "o3-c19-i4",
+       "name": "Peri Peri Chicken sandwich",
+       "price": 94
+      },
+      {
+       "id": "o3-c19-i5",
+       "name": "Mushroom masala sandwich",
+       "price": 85
+      }
+     ]
+    },
+    {
+     "name": "Extras",
+     "items": [
+      {
+       "id": "o3-c20-i0",
+       "name": "Grated cheese",
+       "price": 20
+      },
+      {
+       "id": "o3-c20-i1",
+       "name": "Slice cheese",
+       "price": 15
+      },
+      {
+       "id": "o3-c20-i2",
+       "name": "Mayonese",
+       "price": 5
+      },
+      {
+       "id": "o3-c20-i3",
+       "name": "Butter",
+       "price": 15
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "RC",
+   "cats": [
+    {
+     "name": "Soups",
+     "items": [
+      {
+       "id": "o4-c0-i0",
+       "name": "Veg. Manchow Soup",
+       "price": 80
+      },
+      {
+       "id": "o4-c0-i1",
+       "name": "Veg. Hot & Sour Soup",
+       "price": 80
+      },
+      {
+       "id": "o4-c0-i2",
+       "name": "Veg. Lemon Coriander",
+       "price": 90
+      },
+      {
+       "id": "o4-c0-i3",
+       "name": "Veg. Baby Sweetcorn Soup",
+       "price": 80
+      },
+      {
+       "id": "o4-c0-i4",
+       "name": "Veg Clear Soup",
+       "price": 70
+      },
+      {
+       "id": "o4-c0-i5",
+       "name": "Veg Noddle Soup",
+       "price": 85
+      },
+      {
+       "id": "o4-c0-i6",
+       "name": "Tomato Soup",
+       "price": 90
+      },
+      {
+       "id": "o4-c0-i7",
+       "name": "Cream of Mushroom Soup",
+       "price": 80
+      },
+      {
+       "id": "o4-c0-i8",
+       "name": "Cream of Palak Soup",
+       "price": 80
+      },
+      {
+       "id": "o4-c0-i9",
+       "name": "Chichen Baby Sweetcorn Soup",
+       "price": 90
+      },
+      {
+       "id": "o4-c0-i10",
+       "name": "Chicken Manchow Soup",
+       "price": 90
+      },
+      {
+       "id": "o4-c0-i11",
+       "name": "Chicken Hot & Sour Soup",
+       "price": 90
+      },
+      {
+       "id": "o4-c0-i12",
+       "name": "Chicken Lemon Coriander",
+       "price": 100
+      },
+      {
+       "id": "o4-c0-i13",
+       "name": "Chicken Clear Soup",
+       "price": 80
+      },
+      {
+       "id": "o4-c0-i14",
+       "name": "Chicken Noddle Soup",
+       "price": 85
+      },
+      {
+       "id": "o4-c0-i15",
+       "name": "Cream of Chicken Soup",
+       "price": 90
+      },
+      {
+       "id": "o4-c0-i16",
+       "name": "Chicken Thukpa Soup",
+       "price": 90
+      },
+      {
+       "id": "o4-c0-i17",
+       "name": "Mutton Manchow Soup",
+       "price": 150
+      },
+      {
+       "id": "o4-c0-i18",
+       "name": "Mutton Hot & Sour",
+       "price": 150
+      },
+      {
+       "id": "o4-c0-i19",
+       "name": "Mutton Lemon Coriander",
+       "price": 150
+      },
+      {
+       "id": "o4-c0-i20",
+       "name": "Mutton Clear Soup",
+       "price": 150
+      },
+      {
+       "id": "o4-c0-i21",
+       "name": "Mutton Baby Sweet Corn Soup",
+       "price": 160
+      },
+      {
+       "id": "o4-c0-i22",
+       "name": "Mutton Noodles Soup",
+       "price": 160
+      },
+      {
+       "id": "o4-c0-i23",
+       "name": "Mutton Thukpa Soup",
+       "price": 110
+      },
+      {
+       "id": "o4-c0-i24",
+       "name": "Prawn Manchow Soup",
+       "price": 140
+      },
+      {
+       "id": "o4-c0-i25",
+       "name": "Prawn Hot & Sour",
+       "price": 140
+      },
+      {
+       "id": "o4-c0-i26",
+       "name": "Prawn Lemon Coriander",
+       "price": 140
+      },
+      {
+       "id": "o4-c0-i27",
+       "name": "Prawn Clear Soup",
+       "price": 140
+      },
+      {
+       "id": "o4-c0-i28",
+       "name": "Prawn Baby Sweet Corn Soup",
+       "price": 150
+      },
+      {
+       "id": "o4-c0-i29",
+       "name": "Prawn Noodles Soup",
+       "price": 150
+      },
+      {
+       "id": "o4-c0-i30",
+       "name": "Prawn Thukpa Soup",
+       "price": 100
+      }
+     ]
+    },
+    {
+     "name": "Starters (Veg)",
+     "items": [
+      {
+       "id": "o4-c1-i0",
+       "name": "French Fry",
+       "price": 120
+      },
+      {
+       "id": "o4-c1-i1",
+       "name": "Chilly Garlic Potato",
+       "price": 150
+      },
+      {
+       "id": "o4-c1-i2",
+       "name": "Paprika French Fries",
+       "price": 130
+      },
+      {
+       "id": "o4-c1-i3",
+       "name": "Honey Chilly Potatoes",
+       "price": 160
+      },
+      {
+       "id": "o4-c1-i4",
+       "name": "Baby Corn Manchurian",
+       "price": 200
+      },
+      {
+       "id": "o4-c1-i5",
+       "name": "Baby Corn Chilly",
+       "price": 200
+      },
+      {
+       "id": "o4-c1-i6",
+       "name": "Baby Corn 65",
+       "price": 200
+      },
+      {
+       "id": "o4-c1-i7",
+       "name": "Gobi Manchurian Dry / Gravy",
+       "price": 170
+      },
+      {
+       "id": "o4-c1-i8",
+       "name": "Gobi Chilly Dry / Gravy",
+       "price": 170
+      },
+      {
+       "id": "o4-c1-i9",
+       "name": "Gobi 65",
+       "price": 170
+      },
+      {
+       "id": "o4-c1-i10",
+       "name": "Mushroom Manchurian Dry / Gravy",
+       "price": 180
+      },
+      {
+       "id": "o4-c1-i11",
+       "name": "Mushroom Chilly Dry / Gravy",
+       "price": 180
+      },
+      {
+       "id": "o4-c1-i12",
+       "name": "Mushroom 65",
+       "price": 190
+      },
+      {
+       "id": "o4-c1-i13",
+       "name": "Paneer Manchurian Dry / Gravy",
+       "price": 220
+      },
+      {
+       "id": "o4-c1-i14",
+       "name": "Paneer Chilly Dry / Gravy",
+       "price": 220
+      },
+      {
+       "id": "o4-c1-i15",
+       "name": "Paneer 65",
+       "price": 220
+      },
+      {
+       "id": "o4-c1-i16",
+       "name": "Paneer Garlic",
+       "price": 220
+      },
+      {
+       "id": "o4-c1-i17",
+       "name": "Paneer Schezwan",
+       "price": 220
+      },
+      {
+       "id": "o4-c1-i18",
+       "name": "Paneer Cafereal",
+       "price": 240
+      },
+      {
+       "id": "o4-c1-i19",
+       "name": "Paneer Cheese Garlic",
+       "price": 240
+      },
+      {
+       "id": "o4-c1-i20",
+       "name": "Paneer Pakoda",
+       "price": 240
+      },
+      {
+       "id": "o4-c1-i21",
+       "name": "Tofu Chilly",
+       "price": 200
+      },
+      {
+       "id": "o4-c1-i22",
+       "name": "Tofu 65",
+       "price": 200
+      },
+      {
+       "id": "o4-c1-i23",
+       "name": "Veg Crispy",
+       "price": 170
+      },
+      {
+       "id": "o4-c1-i24",
+       "name": "Veg Manchurian Dry/Gravy",
+       "price": 170
+      },
+      {
+       "id": "o4-c1-i25",
+       "name": "Veg Chilly",
+       "price": 170
+      },
+      {
+       "id": "o4-c1-i26",
+       "name": "Veg 65",
+       "price": 170
+      },
+      {
+       "id": "o4-c1-i27",
+       "name": "Veg Indian Chop Suey",
+       "price": 180
+      },
+      {
+       "id": "o4-c1-i28",
+       "name": "Veg American Chopsuey",
+       "price": 200
+      }
+     ]
+    },
+    {
+     "name": "Chinese Starters (Non-Veg)",
+     "items": [
+      {
+       "id": "o4-c2-i0",
+       "name": "Chicken Tawa Fry Boneless",
+       "price": 240
+      },
+      {
+       "id": "o4-c2-i1",
+       "name": "Chicken Tawa Fry with Bone",
+       "price": 220
+      },
+      {
+       "id": "o4-c2-i2",
+       "name": "Chicken Salt & Pepper",
+       "price": 230
+      },
+      {
+       "id": "o4-c2-i3",
+       "name": "Chicken China Town",
+       "price": 230
+      },
+      {
+       "id": "o4-c2-i4",
+       "name": "Chicken Malaysian",
+       "price": 230
+      },
+      {
+       "id": "o4-c2-i5",
+       "name": "Chicken 65",
+       "price": 230
+      },
+      {
+       "id": "o4-c2-i6",
+       "name": "Chicken Crispy",
+       "price": 230
+      },
+      {
+       "id": "o4-c2-i7",
+       "name": "Chicken Chilly",
+       "price": 230
+      },
+      {
+       "id": "o4-c2-i8",
+       "name": "Chicken Dragon",
+       "price": 230
+      },
+      {
+       "id": "o4-c2-i9",
+       "name": "Chicken Garlic",
+       "price": 230
+      },
+      {
+       "id": "o4-c2-i10",
+       "name": "Chicken Dry Dry with Bone",
+       "price": 240
+      },
+      {
+       "id": "o4-c2-i11",
+       "name": "Chicken Lollipop",
+       "price": 230
+      },
+      {
+       "id": "o4-c2-i12",
+       "name": "Chicken Schezwan Lollipop",
+       "price": 240
+      },
+      {
+       "id": "o4-c2-i13",
+       "name": "Chicken Cheese Schezwan Lollipop",
+       "price": 253
+      },
+      {
+       "id": "o4-c2-i14",
+       "name": "Chicken Cafreal Lollipop",
+       "price": 253
+      },
+      {
+       "id": "o4-c2-i15",
+       "name": "Chicken Cafreal with Bone",
+       "price": 240
+      },
+      {
+       "id": "o4-c2-i16",
+       "name": "Chicken Indian Chop Suey",
+       "price": 220
+      },
+      {
+       "id": "o4-c2-i17",
+       "name": "Chicken American Chopsuey",
+       "price": 240
+      },
+      {
+       "id": "o4-c2-i18",
+       "name": "Egg Salt & Pepper",
+       "price": 190
+      },
+      {
+       "id": "o4-c2-i19",
+       "name": "Egg China Town",
+       "price": 200
+      },
+      {
+       "id": "o4-c2-i20",
+       "name": "Egg Malaysian",
+       "price": 200
+      },
+      {
+       "id": "o4-c2-i21",
+       "name": "Egg 65",
+       "price": 200
+      },
+      {
+       "id": "o4-c2-i22",
+       "name": "Egg Chilly",
+       "price": 190
+      },
+      {
+       "id": "o4-c2-i23",
+       "name": "Egg Dragon",
+       "price": 200
+      },
+      {
+       "id": "o4-c2-i24",
+       "name": "Prawns Tawa Fry Boneless",
+       "price": 350
+      },
+      {
+       "id": "o4-c2-i25",
+       "name": "Prawns Salt & Pepper",
+       "price": 340
+      },
+      {
+       "id": "o4-c2-i26",
+       "name": "Prawns China Town",
+       "price": 340
+      },
+      {
+       "id": "o4-c2-i27",
+       "name": "Prawns Malaysian",
+       "price": 340
+      },
+      {
+       "id": "o4-c2-i28",
+       "name": "Prawns 65",
+       "price": 340
+      },
+      {
+       "id": "o4-c2-i29",
+       "name": "Prawns Chilly",
+       "price": 340
+      },
+      {
+       "id": "o4-c2-i30",
+       "name": "Prawns Dragon",
+       "price": 350
+      },
+      {
+       "id": "o4-c2-i31",
+       "name": "Prawns Garlic",
+       "price": 340
+      },
+      {
+       "id": "o4-c2-i32",
+       "name": "Prawns Sweet & Sour",
+       "price": 340
+      },
+      {
+       "id": "o4-c2-i33",
+       "name": "Prawns Cafreal",
+       "price": 350
+      },
+      {
+       "id": "o4-c2-i34",
+       "name": "Prawns Cheese Garlic",
+       "price": 350
+      },
+      {
+       "id": "o4-c2-i35",
+       "name": "Fish Tawa Fry Boneless",
+       "price": 360
+      },
+      {
+       "id": "o4-c2-i36",
+       "name": "Fish Tawa Fry with Bone",
+       "price": 400
+      },
+      {
+       "id": "o4-c2-i37",
+       "name": "Fish Cafreal with Bone",
+       "price": 430
+      }
+     ]
+    },
+    {
+     "name": "Noodles",
+     "items": [
+      {
+       "id": "o4-c3-i0",
+       "name": "Veg. Hakka Noodles",
+       "price": 170
+      },
+      {
+       "id": "o4-c3-i1",
+       "name": "Veg. Schezwan Noodles",
+       "price": 180
+      },
+      {
+       "id": "o4-c3-i2",
+       "name": "Veg. Chilly Garlic Noodles",
+       "price": 190
+      },
+      {
+       "id": "o4-c3-i3",
+       "name": "Singapuri Veg. Noodles",
+       "price": 180
+      },
+      {
+       "id": "o4-c3-i4",
+       "name": "Paneer Hakka Noodles",
+       "price": 185
+      },
+      {
+       "id": "o4-c3-i5",
+       "name": "Paneer Schezwan Noodles",
+       "price": 195
+      },
+      {
+       "id": "o4-c3-i6",
+       "name": "Paneer Chilly Garlic Noodles",
+       "price": 220
+      },
+      {
+       "id": "o4-c3-i7",
+       "name": "Paneer Malaysian Noodles",
+       "price": 220
+      },
+      {
+       "id": "o4-c3-i8",
+       "name": "Chicken Hakka Noodles",
+       "price": 184
+      },
+      {
+       "id": "o4-c3-i9",
+       "name": "Chicken Schezwan Noodles",
+       "price": 195
+      },
+      {
+       "id": "o4-c3-i10",
+       "name": "Chicken Chilly Garlic Noodles",
+       "price": 200
+      },
+      {
+       "id": "o4-c3-i11",
+       "name": "Singapuri Chicken Noodles",
+       "price": 195
+      },
+      {
+       "id": "o4-c3-i12",
+       "name": "Chicken Malaysian Noodles",
+       "price": 195
+      },
+      {
+       "id": "o4-c3-i13",
+       "name": "Egg Hakka Noodles",
+       "price": 170
+      },
+      {
+       "id": "o4-c3-i14",
+       "name": "Egg Schezwan Noodles",
+       "price": 180
+      },
+      {
+       "id": "o4-c3-i15",
+       "name": "Fish Hakka Noodles (Basa)",
+       "price": 207
+      },
+      {
+       "id": "o4-c3-i16",
+       "name": "Fish Schezwan Noodles (Basa)",
+       "price": 220
+      },
+      {
+       "id": "o4-c3-i17",
+       "name": "Fish Chilly Garlic Noodles (Basa)",
+       "price": 250
+      },
+      {
+       "id": "o4-c3-i18",
+       "name": "Mix Noddles",
+       "price": 285
+      },
+      {
+       "id": "o4-c3-i19",
+       "name": "Mix Schezwan Noddles",
+       "price": 300
+      },
+      {
+       "id": "o4-c3-i20",
+       "name": "Prawns Hakka Noodles",
+       "price": 215
+      },
+      {
+       "id": "o4-c3-i21",
+       "name": "Prawns Schezwan Noodles",
+       "price": 240
+      },
+      {
+       "id": "o4-c3-i22",
+       "name": "Prawns Chilly Garlic Noodles",
+       "price": 260
+      },
+      {
+       "id": "o4-c3-i23",
+       "name": "Prawns Malaysian Noodles",
+       "price": 250
+      }
+     ]
+    },
+    {
+     "name": "Basmati Rice Special",
+     "items": [
+      {
+       "id": "o4-c4-i0",
+       "name": "Ghee Rice",
+       "price": 130
+      },
+      {
+       "id": "o4-c4-i1",
+       "name": "Steam Rice",
+       "price": 100
+      },
+      {
+       "id": "o4-c4-i2",
+       "name": "Jeera Rice",
+       "price": 115
+      },
+      {
+       "id": "o4-c4-i3",
+       "name": "Biryani Rice",
+       "price": 138
+      },
+      {
+       "id": "o4-c4-i4",
+       "name": "Curd Rice",
+       "price": 145
+      },
+      {
+       "id": "o4-c4-i5",
+       "name": "Dal Khichhidi",
+       "price": 170
+      },
+      {
+       "id": "o4-c4-i6",
+       "name": "Veg. Pulao",
+       "price": 170
+      },
+      {
+       "id": "o4-c4-i7",
+       "name": "Peas Pulao",
+       "price": 160
+      },
+      {
+       "id": "o4-c4-i8",
+       "name": "Veg. Fried Rice",
+       "price": 170
+      },
+      {
+       "id": "o4-c4-i9",
+       "name": "Veg. Schezwan Fried Rice",
+       "price": 180
+      },
+      {
+       "id": "o4-c4-i10",
+       "name": "Veg Volcano Rice",
+       "price": 240
+      },
+      {
+       "id": "o4-c4-i11",
+       "name": "Paneer Fried Rice",
+       "price": 210
+      },
+      {
+       "id": "o4-c4-i12",
+       "name": "Paneer Schezwan Fried Rice",
+       "price": 220
+      },
+      {
+       "id": "o4-c4-i13",
+       "name": "Mushroom Fried Rice",
+       "price": 180
+      },
+      {
+       "id": "o4-c4-i14",
+       "name": "Egg Fried Rice",
+       "price": 170
+      },
+      {
+       "id": "o4-c4-i15",
+       "name": "Egg Schezwan Fried Rice",
+       "price": 180
+      },
+      {
+       "id": "o4-c4-i16",
+       "name": "Chicken Fried Rice",
+       "price": 195
+      },
+      {
+       "id": "o4-c4-i17",
+       "name": "Chicken Schezwan Fried Rice",
+       "price": 210
+      },
+      {
+       "id": "o4-c4-i18",
+       "name": "Chicken Volcano Rice",
+       "price": 270
+      },
+      {
+       "id": "o4-c4-i19",
+       "name": "Chicken Pulao",
+       "price": 207
+      },
+      {
+       "id": "o4-c4-i20",
+       "name": "Veg Triple Schezwan Fried Rice",
+       "price": 230
+      },
+      {
+       "id": "o4-c4-i21",
+       "name": "Chicken Triple Schezwan Fried Rice",
+       "price": 250
+      },
+      {
+       "id": "o4-c4-i22",
+       "name": "Mix Fried Rice",
+       "price": 285
+      },
+      {
+       "id": "o4-c4-i23",
+       "name": "Prawns Fried Rice",
+       "price": 280
+      }
+     ]
+    },
+    {
+     "name": "Biryani Special",
+     "items": [
+      {
+       "id": "o4-c5-i0",
+       "name": "Veg Biryani",
+       "price": 170
+      },
+      {
+       "id": "o4-c5-i1",
+       "name": "Paneer Biryani",
+       "price": 207
+      },
+      {
+       "id": "o4-c5-i2",
+       "name": "Mushroom Biryani",
+       "price": 184
+      },
+      {
+       "id": "o4-c5-i3",
+       "name": "Egg Biryani",
+       "price": 190
+      },
+      {
+       "id": "o4-c5-i4",
+       "name": "Chicken Biryani",
+       "price": 200
+      },
+      {
+       "id": "o4-c5-i5",
+       "name": "Mutton Biryani",
+       "price": 322
+      },
+      {
+       "id": "o4-c5-i6",
+       "name": "Prawns Biryani",
+       "price": 340
+      },
+      {
+       "id": "o4-c5-i7",
+       "name": "Fish Biryani (Basa/King Fish)",
+       "price": 300
+      }
+     ]
+    },
+    {
+     "name": "Main Course (Veg)",
+     "items": [
+      {
+       "id": "o4-c6-i0",
+       "name": "Dal Fry",
+       "price": 160
+      },
+      {
+       "id": "o4-c6-i1",
+       "name": "Dal Tadka",
+       "price": 170
+      },
+      {
+       "id": "o4-c6-i2",
+       "name": "Dal Makhani",
+       "price": 207
+      },
+      {
+       "id": "o4-c6-i3",
+       "name": "Dal Palak",
+       "price": 190
+      },
+      {
+       "id": "o4-c6-i4",
+       "name": "Dal Methi",
+       "price": 180
+      },
+      {
+       "id": "o4-c6-i5",
+       "name": "Aloo Mattar",
+       "price": 170
+      },
+      {
+       "id": "o4-c6-i6",
+       "name": "Aloo Kadai",
+       "price": 180
+      },
+      {
+       "id": "o4-c6-i7",
+       "name": "Aloo Handi",
+       "price": 180
+      },
+      {
+       "id": "o4-c6-i8",
+       "name": "Aloo Korma",
+       "price": 200
+      },
+      {
+       "id": "o4-c6-i9",
+       "name": "Aloo Jeera",
+       "price": 170
+      },
+      {
+       "id": "o4-c6-i10",
+       "name": "Mix Veg Masala",
+       "price": 195
+      },
+      {
+       "id": "o4-c6-i11",
+       "name": "Vegetable Korma",
+       "price": 230
+      },
+      {
+       "id": "o4-c6-i12",
+       "name": "Vegetable Kolhapuri",
+       "price": 207
+      },
+      {
+       "id": "o4-c6-i13",
+       "name": "Vegetable Hyderabadi",
+       "price": 207
+      },
+      {
+       "id": "o4-c6-i14",
+       "name": "Vegetable Kadai",
+       "price": 207
+      },
+      {
+       "id": "o4-c6-i15",
+       "name": "Vegetable Handi",
+       "price": 207
+      },
+      {
+       "id": "o4-c6-i16",
+       "name": "Vegetable Jal Frezi",
+       "price": 195
+      },
+      {
+       "id": "o4-c6-i17",
+       "name": "Mushroom Lababdar",
+       "price": 220
+      },
+      {
+       "id": "o4-c6-i18",
+       "name": "Mushroom Laziz",
+       "price": 220
+      },
+      {
+       "id": "o4-c6-i19",
+       "name": "Mushroom Masala",
+       "price": 210
+      },
+      {
+       "id": "o4-c6-i20",
+       "name": "Mushroom Do Pyaza",
+       "price": 220
+      },
+      {
+       "id": "o4-c6-i21",
+       "name": "Red Chilly Special Paneer Mushroom",
+       "price": 300
+      },
+      {
+       "id": "o4-c6-i22",
+       "name": "Paneer Mattar",
+       "price": 230
+      },
+      {
+       "id": "o4-c6-i23",
+       "name": "Paneer Mushroom",
+       "price": 230
+      },
+      {
+       "id": "o4-c6-i24",
+       "name": "Palak Paneer",
+       "price": 240
+      },
+      {
+       "id": "o4-c6-i25",
+       "name": "Paneer Methi",
+       "price": 230
+      },
+      {
+       "id": "o4-c6-i26",
+       "name": "Paneer Makhanwala",
+       "price": 240
+      },
+      {
+       "id": "o4-c6-i27",
+       "name": "Paneer Labaddar",
+       "price": 240
+      },
+      {
+       "id": "o4-c6-i28",
+       "name": "Paneer Tikka Masala",
+       "price": 240
+      },
+      {
+       "id": "o4-c6-i29",
+       "name": "Paneer Butter Masala",
+       "price": 230
+      },
+      {
+       "id": "o4-c6-i30",
+       "name": "Paneer Kadai",
+       "price": 230
+      },
+      {
+       "id": "o4-c6-i31",
+       "name": "Paneer Lajeej",
+       "price": 253
+      },
+      {
+       "id": "o4-c6-i32",
+       "name": "Paneer Mumtaj",
+       "price": 253
+      },
+      {
+       "id": "o4-c6-i33",
+       "name": "Kaju Paneer",
+       "price": 380
+      },
+      {
+       "id": "o4-c6-i34",
+       "name": "Paneer Kofta",
+       "price": 253
+      },
+      {
+       "id": "o4-c6-i35",
+       "name": "Paneer Kolhapuri",
+       "price": 260
+      },
+      {
+       "id": "o4-c6-i36",
+       "name": "Paneer Bhurji",
+       "price": 276
+      },
+      {
+       "id": "o4-c6-i37",
+       "name": "Sahi Paneer",
+       "price": 253
+      },
+      {
+       "id": "o4-c6-i38",
+       "name": "Red Chilly Special Paneer RED",
+       "price": 260
+      },
+      {
+       "id": "o4-c6-i39",
+       "name": "Red Chilly Special Paneer WHITE",
+       "price": 260
+      },
+      {
+       "id": "o4-c6-i40",
+       "name": "Kaju Masala",
+       "price": 350
+      },
+      {
+       "id": "o4-c6-i41",
+       "name": "Chole Masala",
+       "price": 180
+      },
+      {
+       "id": "o4-c6-i42",
+       "name": "Bhindi Masala",
+       "price": 190
+      },
+      {
+       "id": "o4-c6-i43",
+       "name": "Malai Kofta",
+       "price": 230
+      },
+      {
+       "id": "o4-c6-i44",
+       "name": "Dum Aloo Punjabi",
+       "price": 200
+      },
+      {
+       "id": "o4-c6-i45",
+       "name": "Punjabi Bhendi",
+       "price": 190
+      }
+     ]
+    },
+    {
+     "name": "Main Course Non-Veg",
+     "items": [
+      {
+       "id": "o4-c7-i0",
+       "name": "Chicken Masala",
+       "price": 215
+      },
+      {
+       "id": "o4-c7-i1",
+       "name": "Chicken Kadai/Handi",
+       "price": 215
+      },
+      {
+       "id": "o4-c7-i2",
+       "name": "Chicken Dalcha",
+       "price": 250
+      },
+      {
+       "id": "o4-c7-i3",
+       "name": "Chicken Dopiyaza",
+       "price": 215
+      },
+      {
+       "id": "o4-c7-i4",
+       "name": "Chicken Kolahapuri",
+       "price": 215
+      },
+      {
+       "id": "o4-c7-i5",
+       "name": "Chicken Hyderabadi",
+       "price": 215
+      },
+      {
+       "id": "o4-c7-i6",
+       "name": "Chicken Rara",
+       "price": 255
+      },
+      {
+       "id": "o4-c7-i7",
+       "name": "Chicken Rajasthani",
+       "price": 240
+      },
+      {
+       "id": "o4-c7-i8",
+       "name": "Chicken Lajawab",
+       "price": 265
+      },
+      {
+       "id": "o4-c7-i9",
+       "name": "Chicken Badami",
+       "price": 265
+      },
+      {
+       "id": "o4-c7-i10",
+       "name": "Chicken Pistawala",
+       "price": 265
+      },
+      {
+       "id": "o4-c7-i11",
+       "name": "Chicken Lababdar",
+       "price": 265
+      },
+      {
+       "id": "o4-c7-i12",
+       "name": "Chicken Tikka Masala",
+       "price": 255
+      },
+      {
+       "id": "o4-c7-i13",
+       "name": "Chicken Malsulam (Half)",
+       "price": 350
+      },
+      {
+       "id": "o4-c7-i14",
+       "name": "Chicken Malsulam (Full)",
+       "price": 650
+      },
+      {
+       "id": "o4-c7-i15",
+       "name": "Chicken Butter (Half)",
+       "price": 265
+      },
+      {
+       "id": "o4-c7-i16",
+       "name": "Chicken Butter with Bone(Half)",
+       "price": 280
+      },
+      {
+       "id": "o4-c7-i17",
+       "name": "Chicken Butter (Full)",
+       "price": 483
+      },
+      {
+       "id": "o4-c7-i18",
+       "name": "Chicken Lassoni",
+       "price": 220
+      },
+      {
+       "id": "o4-c7-i19",
+       "name": "Chicken Jal Frezi",
+       "price": 240
+      },
+      {
+       "id": "o4-c7-i20",
+       "name": "Chicken Maharaja",
+       "price": 265
+      },
+      {
+       "id": "o4-c7-i21",
+       "name": "Chicken Rogan Josh",
+       "price": 230
+      },
+      {
+       "id": "o4-c7-i22",
+       "name": "Chicken Korma",
+       "price": 265
+      },
+      {
+       "id": "o4-c7-i23",
+       "name": "Methi Malai Chicken",
+       "price": 300
+      },
+      {
+       "id": "o4-c7-i24",
+       "name": "Chicken Aloo",
+       "price": 250
+      },
+      {
+       "id": "o4-c7-i25",
+       "name": "Chicken Chatpata",
+       "price": 240
+      },
+      {
+       "id": "o4-c7-i26",
+       "name": "Chicken Laziz",
+       "price": 300
+      },
+      {
+       "id": "o4-c7-i27",
+       "name": "Chicken Mumtaz",
+       "price": 265
+      },
+      {
+       "id": "o4-c7-i28",
+       "name": "Chicken Patiyala",
+       "price": 265
+      },
+      {
+       "id": "o4-c7-i29",
+       "name": "Chicken Changezi",
+       "price": 280
+      },
+      {
+       "id": "o4-c7-i30",
+       "name": "Chicken Mughlai",
+       "price": 255
+      },
+      {
+       "id": "o4-c7-i31",
+       "name": "Chicken Sukha",
+       "price": 220
+      },
+      {
+       "id": "o4-c7-i32",
+       "name": "Chicken Angara",
+       "price": 255
+      },
+      {
+       "id": "o4-c7-i33",
+       "name": "Chicken Palak",
+       "price": 280
+      },
+      {
+       "id": "o4-c7-i34",
+       "name": "Red Chilly Special Chicken",
+       "price": 275
+      },
+      {
+       "id": "o4-c7-i35",
+       "name": "Masala Omelette",
+       "price": 80
+      },
+      {
+       "id": "o4-c7-i36",
+       "name": "Egg Masala",
+       "price": 185
+      },
+      {
+       "id": "o4-c7-i37",
+       "name": "Egg Lababdar",
+       "price": 210
+      },
+      {
+       "id": "o4-c7-i38",
+       "name": "Egg Kadai",
+       "price": 210
+      },
+      {
+       "id": "o4-c7-i39",
+       "name": "Egg Sukka",
+       "price": 210
+      },
+      {
+       "id": "o4-c7-i40",
+       "name": "Egg Handi",
+       "price": 210
+      },
+      {
+       "id": "o4-c7-i41",
+       "name": "Egg Bhurji",
+       "price": 170
+      },
+      {
+       "id": "o4-c7-i42",
+       "name": "Mutton Masala",
+       "price": 320
+      },
+      {
+       "id": "o4-c7-i43",
+       "name": "Mutton Rara",
+       "price": 340
+      },
+      {
+       "id": "o4-c7-i44",
+       "name": "Mutton Rogan Josh",
+       "price": 320
+      },
+      {
+       "id": "o4-c7-i45",
+       "name": "Mutton Lasooni",
+       "price": 320
+      },
+      {
+       "id": "o4-c7-i46",
+       "name": "Mutton Kolhapuri",
+       "price": 320
+      },
+      {
+       "id": "o4-c7-i47",
+       "name": "Mutton Handi",
+       "price": 320
+      },
+      {
+       "id": "o4-c7-i48",
+       "name": "Mutton Rajasthani",
+       "price": 360
+      },
+      {
+       "id": "o4-c7-i49",
+       "name": "Mutton Maharaja",
+       "price": 360
+      },
+      {
+       "id": "o4-c7-i50",
+       "name": "Mutton Dal Gosht",
+       "price": 360
+      },
+      {
+       "id": "o4-c7-i51",
+       "name": "Mutton Hyderabadi",
+       "price": 320
+      },
+      {
+       "id": "o4-c7-i52",
+       "name": "Mutton Mumtaj",
+       "price": 320
+      },
+      {
+       "id": "o4-c7-i53",
+       "name": "Mutton Chatpata",
+       "price": 320
+      },
+      {
+       "id": "o4-c7-i54",
+       "name": "Mutton Korma",
+       "price": 345
+      },
+      {
+       "id": "o4-c7-i55",
+       "name": "Mutton Bhuna",
+       "price": 320
+      },
+      {
+       "id": "o4-c7-i56",
+       "name": "Red Chilly Special Prawns",
+       "price": 360
+      },
+      {
+       "id": "o4-c7-i57",
+       "name": "Prawns Hyderabadi",
+       "price": 350
+      },
+      {
+       "id": "o4-c7-i58",
+       "name": "Red Chilly Special Fish",
+       "price": 380
+      }
+     ]
+    },
+    {
+     "name": "Tandoor Items",
+     "items": [
+      {
+       "id": "o4-c8-i0",
+       "name": "Aloo Tikka",
+       "price": 200
+      },
+      {
+       "id": "o4-c8-i1",
+       "name": "Aloo Pahadi Tikka",
+       "price": 200
+      },
+      {
+       "id": "o4-c8-i2",
+       "name": "Aloo Malai Tikka",
+       "price": 220
+      },
+      {
+       "id": "o4-c8-i3",
+       "name": "Aloo Mushroom Tikka",
+       "price": 220
+      },
+      {
+       "id": "o4-c8-i4",
+       "name": "Chinese Aloo Schezwan Tikka",
+       "price": 220
+      },
+      {
+       "id": "o4-c8-i5",
+       "name": "Paneer Tikka (6 Pics)",
+       "price": 230
+      },
+      {
+       "id": "o4-c8-i6",
+       "name": "Paneer Malai Tikka (6 Pics)",
+       "price": 230
+      },
+      {
+       "id": "o4-c8-i7",
+       "name": "Paneer Hariyali Tikka (6 Pics)",
+       "price": 230
+      },
+      {
+       "id": "o4-c8-i8",
+       "name": "Paneer Achatri Tikka",
+       "price": 230
+      },
+      {
+       "id": "o4-c8-i9",
+       "name": "Paneer Kalimiri Tikka",
+       "price": 250
+      },
+      {
+       "id": "o4-c8-i10",
+       "name": "Paneer Mushroom Tikka",
+       "price": 230
+      },
+      {
+       "id": "o4-c8-i11",
+       "name": "Veg Seek Kebab",
+       "price": 220
+      },
+      {
+       "id": "o4-c8-i12",
+       "name": "Kasturi Kebab",
+       "price": 253
+      },
+      {
+       "id": "o4-c8-i13",
+       "name": "Alishan Kebab",
+       "price": 253
+      },
+      {
+       "id": "o4-c8-i14",
+       "name": "Reshmi Kebab",
+       "price": 253
+      },
+      {
+       "id": "o4-c8-i15",
+       "name": "Banjara Kebab",
+       "price": 253
+      },
+      {
+       "id": "o4-c8-i16",
+       "name": "Peshawari Kebab",
+       "price": 253
+      },
+      {
+       "id": "o4-c8-i17",
+       "name": "Hariyali Kebab",
+       "price": 270
+      },
+      {
+       "id": "o4-c8-i18",
+       "name": "Fish Tikka",
+       "price": 330
+      },
+      {
+       "id": "o4-c8-i19",
+       "name": "Fish Kalimari Tikka",
+       "price": 330
+      },
+      {
+       "id": "o4-c8-i20",
+       "name": "Fish Hariyali",
+       "price": 330
+      },
+      {
+       "id": "o4-c8-i21",
+       "name": "Chicken Tikka (6 Pics)",
+       "price": 250
+      },
+      {
+       "id": "o4-c8-i22",
+       "name": "Chicken Tandoori (Half)",
+       "price": 260
+      },
+      {
+       "id": "o4-c8-i23",
+       "name": "Chicken Tandoori (Full)",
+       "price": 490
+      },
+      {
+       "id": "o4-c8-i24",
+       "name": "Chicken Schezwan Tandoori (Half)",
+       "price": 280
+      },
+      {
+       "id": "o4-c8-i25",
+       "name": "Chicken Schezwan Tandoori (Full)",
+       "price": 540
+      },
+      {
+       "id": "o4-c8-i26",
+       "name": "Chicken Kalimiri Kebab",
+       "price": 250
+      },
+      {
+       "id": "o4-c8-i27",
+       "name": "Chicken Achari Tikka",
+       "price": 250
+      },
+      {
+       "id": "o4-c8-i28",
+       "name": "Chicken Pahadi Kabab",
+       "price": 250
+      },
+      {
+       "id": "o4-c8-i29",
+       "name": "Chicken Malai Kabab",
+       "price": 250
+      },
+      {
+       "id": "o4-c8-i30",
+       "name": "Chicken Seek Kebab",
+       "price": 300
+      }
+     ]
+    },
+    {
+     "name": "Bread Basket",
+     "items": [
+      {
+       "id": "o4-c9-i0",
+       "name": "Plain Roti",
+       "price": 20
+      },
+      {
+       "id": "o4-c9-i1",
+       "name": "Butter Roti",
+       "price": 25
+      },
+      {
+       "id": "o4-c9-i2",
+       "name": "Plain Nan",
+       "price": 30
+      },
+      {
+       "id": "o4-c9-i3",
+       "name": "Butter Nan",
+       "price": 40
+      },
+      {
+       "id": "o4-c9-i4",
+       "name": "Garlic Nan",
+       "price": 60
+      },
+      {
+       "id": "o4-c9-i5",
+       "name": "Cheese Nan",
+       "price": 115
+      },
+      {
+       "id": "o4-c9-i6",
+       "name": "Cheese Garlic Nan",
+       "price": 125
+      },
+      {
+       "id": "o4-c9-i7",
+       "name": "Chilly Cheese Garlic Nan",
+       "price": 135
+      },
+      {
+       "id": "o4-c9-i8",
+       "name": "Plain Kulchha",
+       "price": 20
+      },
+      {
+       "id": "o4-c9-i9",
+       "name": "Butter Kulchha",
+       "price": 25
+      },
+      {
+       "id": "o4-c9-i10",
+       "name": "Garlic Kulchha",
+       "price": 30
+      },
+      {
+       "id": "o4-c9-i11",
+       "name": "Tomato Kulchha",
+       "price": 28
+      },
+      {
+       "id": "o4-c9-i12",
+       "name": "Onion Kulcha",
+       "price": 30
+      },
+      {
+       "id": "o4-c9-i13",
+       "name": "Panner Kulcha",
+       "price": 90
+      },
+      {
+       "id": "o4-c9-i14",
+       "name": "Mirchi Paratha (Green / Red Chilly)",
+       "price": 20
+      },
+      {
+       "id": "o4-c9-i15",
+       "name": "Aloo Paratha",
+       "price": 80
+      },
+      {
+       "id": "o4-c9-i16",
+       "name": "Mint Paratha",
+       "price": 60
+      },
+      {
+       "id": "o4-c9-i17",
+       "name": "Gobi Partha",
+       "price": 80
+      },
+      {
+       "id": "o4-c9-i18",
+       "name": "Lacha Paratha",
+       "price": 80
+      },
+      {
+       "id": "o4-c9-i19",
+       "name": "Mix Paratha",
+       "price": 100
+      }
+     ]
+    },
+    {
+     "name": "Juices, Mojitos & Milk Shakes",
+     "items": [
+      {
+       "id": "o4-c10-i0",
+       "name": "Fresh Lime Juice",
+       "price": 50
+      },
+      {
+       "id": "o4-c10-i1",
+       "name": "Fresh Lime Soda",
+       "price": 60
+      },
+      {
+       "id": "o4-c10-i2",
+       "name": "Orange Juice",
+       "price": 85
+      },
+      {
+       "id": "o4-c10-i3",
+       "name": "Mousambi Juice",
+       "price": 85
+      },
+      {
+       "id": "o4-c10-i4",
+       "name": "Pineapple Juice",
+       "price": 85
+      },
+      {
+       "id": "o4-c10-i5",
+       "name": "Watermelon Juice",
+       "price": 85
+      },
+      {
+       "id": "o4-c10-i6",
+       "name": "Banana Milk Shake",
+       "price": 90
+      },
+      {
+       "id": "o4-c10-i7",
+       "name": "Chocolate Milk Shake",
+       "price": 90
+      },
+      {
+       "id": "o4-c10-i8",
+       "name": "Banana Chocolate Milk Shake",
+       "price": 110
+      },
+      {
+       "id": "o4-c10-i9",
+       "name": "Sweet lassi",
+       "price": 80
+      },
+      {
+       "id": "o4-c10-i10",
+       "name": "Salted lassi",
+       "price": 80
+      },
+      {
+       "id": "o4-c10-i11",
+       "name": "Strawberry milk shake",
+       "price": 90
+      },
+      {
+       "id": "o4-c10-i12",
+       "name": "Papaya milk shake",
+       "price": 90
+      },
+      {
+       "id": "o4-c10-i13",
+       "name": "Virgin Mojito",
+       "price": 80
+      },
+      {
+       "id": "o4-c10-i14",
+       "name": "Watermelon Mojito",
+       "price": 80
+      },
+      {
+       "id": "o4-c10-i15",
+       "name": "Orange Mojito",
+       "price": 80
+      }
+     ]
+    },
+    {
+     "name": "Shawarma",
+     "items": [
+      {
+       "id": "o4-c11-i0",
+       "name": "Paneeer Shawarma",
+       "price": 115
+      },
+      {
+       "id": "o4-c11-i1",
+       "name": "Mushroom Shawarma",
+       "price": 92
+      },
+      {
+       "id": "o4-c11-i2",
+       "name": "Mushroom Cheese Shawarma",
+       "price": 105
+      },
+      {
+       "id": "o4-c11-i3",
+       "name": "Chicken Shawarma",
+       "price": 80
+      },
+      {
+       "id": "o4-c11-i4",
+       "name": "Chicken Shawarma Spicy",
+       "price": 92
+      },
+      {
+       "id": "o4-c11-i5",
+       "name": "Chicken Schezwan Shawarma",
+       "price": 105
+      },
+      {
+       "id": "o4-c11-i6",
+       "name": "Chicken Cheese Shawarma",
+       "price": 110
+      },
+      {
+       "id": "o4-c11-i7",
+       "name": "Chicken Schezwan Cheese Shawarma",
+       "price": 125
+      },
+      {
+       "id": "o4-c11-i8",
+       "name": "Meat Shawarma",
+       "price": 110
+      },
+      {
+       "id": "o4-c11-i9",
+       "name": "Meat Schezwan Shawarma",
+       "price": 125
+      },
+      {
+       "id": "o4-c11-i10",
+       "name": "Mix Shawarma",
+       "price": 140
+      },
+      {
+       "id": "o4-c11-i11",
+       "name": "Mix Schezwan Shawarma",
+       "price": 150
+      },
+      {
+       "id": "o4-c11-i12",
+       "name": "Mix Cheese Shawarma",
+       "price": 160
+      },
+      {
+       "id": "o4-c11-i13",
+       "name": "Prawns Cheese Shawarma",
+       "price": 140
+      },
+      {
+       "id": "o4-c11-i14",
+       "name": "RC Special Chicken Prawns Shawarma",
+       "price": 80
+      },
+      {
+       "id": "o4-c11-i15",
+       "name": "Alfham (Half)",
+       "price": 280
+      },
+      {
+       "id": "o4-c11-i16",
+       "name": "Alfham (Full)",
+       "price": 540
+      }
+     ]
+    },
+    {
+     "name": "Salads & Sides",
+     "items": [
+      {
+       "id": "o4-c12-i0",
+       "name": "Mix Raita",
+       "price": 80
+      },
+      {
+       "id": "o4-c12-i1",
+       "name": "Bundi Raita",
+       "price": 80
+      },
+      {
+       "id": "o4-c12-i2",
+       "name": "Plain Curd",
+       "price": 70
+      },
+      {
+       "id": "o4-c12-i3",
+       "name": "Green Salad",
+       "price": 80
+      },
+      {
+       "id": "o4-c12-i4",
+       "name": "Masala Papad",
+       "price": 80
+      }
+     ]
+    },
+    {
+     "name": "Others",
+     "items": [
+      {
+       "id": "o4-c13-i0",
+       "name": "Mixed raita",
+       "price": 80
+      },
+      {
+       "id": "o4-c13-i1",
+       "name": "Curd",
+       "price": 70
+      },
+      {
+       "id": "o4-c13-i2",
+       "name": "Bundi Raita",
+       "price": 80
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Sub Spot",
+   "cats": [
+    {
+     "name": "Beverages",
+     "items": [
+      {
+       "id": "o5-c0-i0",
+       "name": "Ginger Tea",
+       "price": 15
+      },
+      {
+       "id": "o5-c0-i1",
+       "name": "Hot Tea",
+       "price": 15
+      },
+      {
+       "id": "o5-c0-i2",
+       "name": "Coffee",
+       "price": 15
+      },
+      {
+       "id": "o5-c0-i3",
+       "name": "Black Tea",
+       "price": 15
+      },
+      {
+       "id": "o5-c0-i4",
+       "name": "Lemon Tea",
+       "price": 15
+      },
+      {
+       "id": "o5-c0-i5",
+       "name": "Green Tea",
+       "price": 15
+      },
+      {
+       "id": "o5-c0-i6",
+       "name": "Iced Tea (Small)",
+       "price": 30
+      },
+      {
+       "id": "o5-c0-i7",
+       "name": "Iced Tea (Large)",
+       "price": 40
+      },
+      {
+       "id": "o5-c0-i8",
+       "name": "Cold Coffee",
+       "price": 40
+      }
+     ]
+    },
+    {
+     "name": "Snacks",
+     "items": [
+      {
+       "id": "o5-c1-i0",
+       "name": "Veg Puff",
+       "price": 18
+      },
+      {
+       "id": "o5-c1-i1",
+       "name": "Paneer Puff",
+       "price": 20
+      },
+      {
+       "id": "o5-c1-i2",
+       "name": "Egg Puff",
+       "price": 20
+      },
+      {
+       "id": "o5-c1-i3",
+       "name": "Chicken Puff",
+       "price": 22
+      },
+      {
+       "id": "o5-c1-i4",
+       "name": "Veg Burger",
+       "price": 60
+      },
+      {
+       "id": "o5-c1-i5",
+       "name": "Aloo Tikki Burger",
+       "price": 55
+      },
+      {
+       "id": "o5-c1-i6",
+       "name": "Chicken Burger",
+       "price": 80
+      },
+      {
+       "id": "o5-c1-i7",
+       "name": "Veg Samosa",
+       "price": 18
+      },
+      {
+       "id": "o5-c1-i8",
+       "name": "Egg Kathi Roll",
+       "price": 60
+      },
+      {
+       "id": "o5-c1-i9",
+       "name": "Chicken Kathi Roll",
+       "price": 75
+      },
+      {
+       "id": "o5-c1-i10",
+       "name": "Panner Kathi Roll",
+       "price": 75
+      },
+      {
+       "id": "o5-c1-i11",
+       "name": "Bread Butter Jam",
+       "price": 40
+      },
+      {
+       "id": "o5-c1-i12",
+       "name": "Samosa Pav",
+       "price": 35
+      },
+      {
+       "id": "o5-c1-i13",
+       "name": "Omlette Pav",
+       "price": 40
+      },
+      {
+       "id": "o5-c1-i14",
+       "name": "Bread Omlette",
+       "price": 60
+      },
+      {
+       "id": "o5-c1-i15",
+       "name": "Masala Omlette",
+       "price": 40
+      },
+      {
+       "id": "o5-c1-i16",
+       "name": "Classic French Fries",
+       "price": 70
+      },
+      {
+       "id": "o5-c1-i17",
+       "name": "Cheese Omlette",
+       "price": 60
+      },
+      {
+       "id": "o5-c1-i18",
+       "name": "Veg Omlette Burger",
+       "price": 80
+      },
+      {
+       "id": "o5-c1-i19",
+       "name": "Chicken Grilled Sandwich",
+       "price": 75
+      },
+      {
+       "id": "o5-c1-i20",
+       "name": "Veg Grilled Sandwich",
+       "price": 55
+      },
+      {
+       "id": "o5-c1-i21",
+       "name": "Cheese Grilled Sandwich",
+       "price": 55
+      },
+      {
+       "id": "o5-c1-i22",
+       "name": "Paneer Tikka Grilled Sandwich",
+       "price": 75
+      },
+      {
+       "id": "o5-c1-i23",
+       "name": "Omlette Grilled Sandwich",
+       "price": 70
+      },
+      {
+       "id": "o5-c1-i24",
+       "name": "Masala French Fries",
+       "price": 75
+      }
+     ]
+    },
+    {
+     "name": "Maggi",
+     "items": [
+      {
+       "id": "o5-c2-i0",
+       "name": "Classic Maggie",
+       "price": 35
+      },
+      {
+       "id": "o5-c2-i1",
+       "name": "Cheese Maggie",
+       "price": 45
+      },
+      {
+       "id": "o5-c2-i2",
+       "name": "Chilly Cheese Maggie",
+       "price": 45
+      },
+      {
+       "id": "o5-c2-i3",
+       "name": "Veg Maggie",
+       "price": 45
+      },
+      {
+       "id": "o5-c2-i4",
+       "name": "Egg Maggie",
+       "price": 50
+      },
+      {
+       "id": "o5-c2-i5",
+       "name": "Veg Cheese Maggi",
+       "price": 60
+      },
+      {
+       "id": "o5-c2-i6",
+       "name": "Paneer Tikka Maggi",
+       "price": 70
+      },
+      {
+       "id": "o5-c2-i7",
+       "name": "Chicken Tikka Maggi",
+       "price": 70
+      }
+     ]
+    },
+    {
+     "name": "Subs (Veg)",
+     "items": [
+      {
+       "id": "o5-c3-i0",
+       "name": "Veggie Farm House",
+       "price": 100
+      },
+      {
+       "id": "o5-c3-i1",
+       "name": "Paneer Tikka Bread",
+       "price": 130
+      },
+      {
+       "id": "o5-c3-i2",
+       "name": "Aloo Patty",
+       "price": 110
+      },
+      {
+       "id": "o5-c3-i3",
+       "name": "Veg Club",
+       "price": 150
+      },
+      {
+       "id": "o5-c3-i4",
+       "name": "Veg Salad",
+       "price": 130
+      },
+      {
+       "id": "o5-c3-i5",
+       "name": "Veg Patty Sub",
+       "price": 110
+      }
+     ]
+    },
+    {
+     "name": "Subs (Non-Veg)",
+     "items": [
+      {
+       "id": "o5-c4-i0",
+       "name": "Chicken Tikka",
+       "price": 140
+      },
+      {
+       "id": "o5-c4-i1",
+       "name": "Chicken Patty",
+       "price": 120
+      },
+      {
+       "id": "o5-c4-i2",
+       "name": "Chicken Ham",
+       "price": 110
+      },
+      {
+       "id": "o5-c4-i3",
+       "name": "Chicken Seekh",
+       "price": 120
+      },
+      {
+       "id": "o5-c4-i4",
+       "name": "Chicken Club",
+       "price": 160
+      },
+      {
+       "id": "o5-c4-i5",
+       "name": "Chicken Salad",
+       "price": 150
+      }
+     ]
+    },
+    {
+     "name": "Pancakes",
+     "items": [
+      {
+       "id": "o5-c5-i0",
+       "name": "Classic Pancake with Maple Syrup",
+       "price": 90
+      },
+      {
+       "id": "o5-c5-i1",
+       "name": "Crunchy Hazelnut Pancake",
+       "price": 100
+      },
+      {
+       "id": "o5-c5-i2",
+       "name": "Death By Chocolate Pancake",
+       "price": 100
+      },
+      {
+       "id": "o5-c5-i3",
+       "name": "Crunchy Hazelnut Waffle",
+       "price": 100
+      },
+      {
+       "id": "o5-c5-i4",
+       "name": "Milk & White Chocolate Waffle",
+       "price": 100
+      },
+      {
+       "id": "o5-c5-i5",
+       "name": "Milk Chocolate Waffle",
+       "price": 100
+      }
+     ]
+    },
+    {
+     "name": "Mojitos & Coolers",
+     "items": [
+      {
+       "id": "o5-c6-i0",
+       "name": "Mango Mojito (without boba)",
+       "price": 55
+      }
+     ]
+    },
+    {
+     "name": "New Addition",
+     "items": [
+      {
+       "id": "o5-c7-i0",
+       "name": "Vada Pav",
+       "price": 30
+      },
+      {
+       "id": "o5-c7-i1",
+       "name": "Mint Mojito (without boba)",
+       "price": 45
+      },
+      {
+       "id": "o5-c7-i2",
+       "name": "Mint Mojito (with boba)",
+       "price": 70
+      },
+      {
+       "id": "o5-c7-i3",
+       "name": "Mango Mojito (with boba)",
+       "price": 80
+      },
+      {
+       "id": "o5-c7-i4",
+       "name": "Watermelon Mojito (without boba)",
+       "price": 55
+      },
+      {
+       "id": "o5-c7-i5",
+       "name": "Watermelon Mojito (with boba)",
+       "price": 80
+      },
+      {
+       "id": "o5-c7-i6",
+       "name": "Hazelnut Cold Coffee",
+       "price": 80
+      },
+      {
+       "id": "o5-c7-i7",
+       "name": "Belgian Hot Chocolate",
+       "price": 60
+      },
+      {
+       "id": "o5-c7-i8",
+       "name": "Nutella Filled Pancake",
+       "price": 130
+      },
+      {
+       "id": "o5-c7-i9",
+       "name": "Nutella Filled Mini Pancakes(8 pcs)",
+       "price": 100
+      },
+      {
+       "id": "o5-c7-i10",
+       "name": "Biscoff Pancake",
+       "price": 100
+      },
+      {
+       "id": "o5-c7-i11",
+       "name": "Milk Chocolate Doracake",
+       "price": 60
+      },
+      {
+       "id": "o5-c7-i12",
+       "name": "Crunchy Hazelnut Doracake",
+       "price": 70
+      },
+      {
+       "id": "o5-c7-i13",
+       "name": "White Chocolate Doracake",
+       "price": 60
+      },
+      {
+       "id": "o5-c7-i14",
+       "name": "White Chocolate Matcha Pancake",
+       "price": 120
+      },
+      {
+       "id": "o5-c7-i15",
+       "name": "Iced Matcha Latte",
+       "price": 100
+      },
+      {
+       "id": "o5-c7-i16",
+       "name": "Strawberry Matcha Latte",
+       "price": 120
+      },
+      {
+       "id": "o5-c7-i17",
+       "name": "Hazelnut Cold Coffee",
+       "price": 60
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "IC",
+   "cats": [
+    {
+     "name": "Cafeteria",
+     "items": [
+      {
+       "id": "o6-c0-i0",
+       "name": "Idli Sambhar",
+       "price": 45
+      },
+      {
+       "id": "o6-c0-i1",
+       "name": "Mix Upma",
+       "price": 40
+      },
+      {
+       "id": "o6-c0-i2",
+       "name": "Plain Omelette (2egg)",
+       "price": 45
+      },
+      {
+       "id": "o6-c0-i3",
+       "name": "Bread Omelette",
+       "price": 44
+      },
+      {
+       "id": "o6-c0-i4",
+       "name": "Onion Uttapam",
+       "price": 45
+      },
+      {
+       "id": "o6-c0-i5",
+       "name": "Pav Bhaji",
+       "price": 45
+      },
+      {
+       "id": "o6-c0-i6",
+       "name": "Mirchi Bhajiya",
+       "price": 30
+      },
+      {
+       "id": "o6-c0-i7",
+       "name": "Medu Wada Sambhar & Chutney",
+       "price": 55
+      },
+      {
+       "id": "o6-c0-i8",
+       "name": "Veg Cutlet (2pcs)",
+       "price": 35
+      },
+      {
+       "id": "o6-c0-i9",
+       "name": "Bread Roll",
+       "price": 35
+      },
+      {
+       "id": "o6-c0-i10",
+       "name": "Samosa Pav (1samosa &1pav)",
+       "price": 23
+      },
+      {
+       "id": "o6-c0-i11",
+       "name": "Bread Pakoda (2pcs)",
+       "price": 45
+      },
+      {
+       "id": "o6-c0-i12",
+       "name": "Pani Puri",
+       "price": 45
+      },
+      {
+       "id": "o6-c0-i13",
+       "name": "Bhel Puri",
+       "price": 45
+      },
+      {
+       "id": "o6-c0-i14",
+       "name": "Chole Kulcha",
+       "price": 50
+      },
+      {
+       "id": "o6-c0-i15",
+       "name": "Puri Bhaji",
+       "price": 50
+      },
+      {
+       "id": "o6-c0-i16",
+       "name": "Onion Pakoda",
+       "price": 45
+      },
+      {
+       "id": "o6-c0-i17",
+       "name": "Tea",
+       "price": 17
+      },
+      {
+       "id": "o6-c0-i18",
+       "name": "Coffee",
+       "price": 17
+      },
+      {
+       "id": "o6-c0-i19",
+       "name": "Special Tea",
+       "price": 23
+      },
+      {
+       "id": "o6-c0-i20",
+       "name": "Special Coffee",
+       "price": 23
+      },
+      {
+       "id": "o6-c0-i21",
+       "name": "Green Tea",
+       "price": 25
+      },
+      {
+       "id": "o6-c0-i22",
+       "name": "Black Tea",
+       "price": 20
+      },
+      {
+       "id": "o6-c0-i23",
+       "name": "Alu Paratha (1pcs) With Pickle",
+       "price": 45
+      },
+      {
+       "id": "o6-c0-i24",
+       "name": "Paneer Paratha",
+       "price": 58
+      },
+      {
+       "id": "o6-c0-i25",
+       "name": "Cheese Shezwan Dosa",
+       "price": 93
+      },
+      {
+       "id": "o6-c0-i26",
+       "name": "Paneer Chilly Dosa",
+       "price": 95
+      },
+      {
+       "id": "o6-c0-i27",
+       "name": "Cheese Chilly Dosa",
+       "price": 95
+      },
+      {
+       "id": "o6-c0-i28",
+       "name": "Cheese Chilly Uttapam",
+       "price": 70
+      },
+      {
+       "id": "o6-c0-i29",
+       "name": "Shezwan Masala Dosa",
+       "price": 60
+      },
+      {
+       "id": "o6-c0-i30",
+       "name": "Cheese Mix Veg Uttapam",
+       "price": 75
+      },
+      {
+       "id": "o6-c0-i31",
+       "name": "Masala Dosa",
+       "price": 60
+      },
+      {
+       "id": "o6-c0-i32",
+       "name": "Shezwan Cheese Sada Dosa",
+       "price": 65
+      },
+      {
+       "id": "o6-c0-i33",
+       "name": "Plain Dosa",
+       "price": 45
+      },
+      {
+       "id": "o6-c0-i34",
+       "name": "Cheese Masala Dosa",
+       "price": 60
+      },
+      {
+       "id": "o6-c0-i35",
+       "name": "Cheese Sada Dosa",
+       "price": 45
+      },
+      {
+       "id": "o6-c0-i36",
+       "name": "Veg Fried Rice",
+       "price": 85
+      },
+      {
+       "id": "o6-c0-i37",
+       "name": "Veg Noodles",
+       "price": 85
+      },
+      {
+       "id": "o6-c0-i38",
+       "name": "Veg Shezwan Fried Rice",
+       "price": 90
+      },
+      {
+       "id": "o6-c0-i39",
+       "name": "Veg Shezwan Noodles",
+       "price": 90
+      },
+      {
+       "id": "o6-c0-i40",
+       "name": "Egg Fried Rice",
+       "price": 95
+      },
+      {
+       "id": "o6-c0-i41",
+       "name": "Egg Noodles",
+       "price": 95
+      },
+      {
+       "id": "o6-c0-i42",
+       "name": "Egg Shezwan Rice",
+       "price": 100
+      },
+      {
+       "id": "o6-c0-i43",
+       "name": "Egg Shezwan Noodles",
+       "price": 100
+      },
+      {
+       "id": "o6-c0-i44",
+       "name": "Chicken Fried Rice",
+       "price": 120
+      },
+      {
+       "id": "o6-c0-i45",
+       "name": "Chicken Noodles",
+       "price": 120
+      },
+      {
+       "id": "o6-c0-i46",
+       "name": "Chicken Shezwan Rice",
+       "price": 125
+      },
+      {
+       "id": "o6-c0-i47",
+       "name": "Chicken Shezwan Noodles",
+       "price": 125
+      },
+      {
+       "id": "o6-c0-i48",
+       "name": "Chicken Chilly Dry (6 Pcs)",
+       "price": 120
+      },
+      {
+       "id": "o6-c0-i49",
+       "name": "Paneer Chilly Dry (6 Pcs)",
+       "price": 125
+      },
+      {
+       "id": "o6-c0-i50",
+       "name": "Special Chicken Biryani (3 Pcs)",
+       "price": 145
+      },
+      {
+       "id": "o6-c0-i51",
+       "name": "Special Egg Biryani (2 Pcs Egg)",
+       "price": 130
+      },
+      {
+       "id": "o6-c0-i52",
+       "name": "Veg Biryani",
+       "price": 120
+      },
+      {
+       "id": "o6-c0-i53",
+       "name": "Special Paneer Biryani",
+       "price": 140
+      },
+      {
+       "id": "o6-c0-i54",
+       "name": "Cold Coffee",
+       "price": 45
+      },
+      {
+       "id": "o6-c0-i55",
+       "name": "Cold Bournvita",
+       "price": 50
+      },
+      {
+       "id": "o6-c0-i56",
+       "name": "Mango Milk Shake",
+       "price": 70
+      },
+      {
+       "id": "o6-c0-i57",
+       "name": "Mango Lassi",
+       "price": 55
+      },
+      {
+       "id": "o6-c0-i58",
+       "name": "Sweet Lassi",
+       "price": 45
+      },
+      {
+       "id": "o6-c0-i59",
+       "name": "Chocolate Milk Shake",
+       "price": 65
+      },
+      {
+       "id": "o6-c0-i60",
+       "name": "Banana Milk Shake",
+       "price": 65
+      },
+      {
+       "id": "o6-c0-i61",
+       "name": "Egg Bhurji",
+       "price": 50
+      },
+      {
+       "id": "o6-c0-i62",
+       "name": "Half Fry",
+       "price": 35
+      },
+      {
+       "id": "o6-c0-i63",
+       "name": "Veg Sandwich",
+       "price": 55
+      },
+      {
+       "id": "o6-c0-i64",
+       "name": "Veg Cheese Grill Sandwich",
+       "price": 70
+      },
+      {
+       "id": "o6-c0-i65",
+       "name": "Egg Cheese Grill Sandwich",
+       "price": 75
+      },
+      {
+       "id": "o6-c0-i66",
+       "name": "Chicken Cheese Grill Sandwich",
+       "price": 100
+      },
+      {
+       "id": "o6-c0-i67",
+       "name": "Plain Maggi",
+       "price": 50
+      },
+      {
+       "id": "o6-c0-i68",
+       "name": "Cheese Maggi",
+       "price": 55
+      },
+      {
+       "id": "o6-c0-i69",
+       "name": "Veg Maggi",
+       "price": 50
+      },
+      {
+       "id": "o6-c0-i70",
+       "name": "Veg Puff",
+       "price": 25
+      },
+      {
+       "id": "o6-c0-i71",
+       "name": "Alu Puff",
+       "price": 25
+      },
+      {
+       "id": "o6-c0-i72",
+       "name": "Paneer Puff",
+       "price": 35
+      },
+      {
+       "id": "o6-c0-i73",
+       "name": "Chicken Puff",
+       "price": 38
+      },
+      {
+       "id": "o6-c0-i74",
+       "name": "Samosa(1Pc)",
+       "price": 18
+      },
+      {
+       "id": "o6-c0-i75",
+       "name": "Samosa(2Pc)",
+       "price": 35
+      },
+      {
+       "id": "o6-c0-i76",
+       "name": "Batata Vada(1PC)",
+       "price": 17
+      },
+      {
+       "id": "o6-c0-i77",
+       "name": "Batata Vada(2PC)",
+       "price": 35
+      },
+      {
+       "id": "o6-c0-i78",
+       "name": "Onion Poha",
+       "price": 40
+      }
+     ]
+    },
+    {
+     "name": "Additional Outlet (Café Riveria)",
+     "items": [
+      {
+       "id": "o6-c1-i0",
+       "name": "Chocolate Pastry",
+       "price": 70
+      },
+      {
+       "id": "o6-c1-i1",
+       "name": "Pineapple Pastry",
+       "price": 62
+      },
+      {
+       "id": "o6-c1-i2",
+       "name": "Choco Chip Pastry",
+       "price": 75
+      },
+      {
+       "id": "o6-c1-i3",
+       "name": "Strawberry Pastry",
+       "price": 62
+      },
+      {
+       "id": "o6-c1-i4",
+       "name": "Black Forest Pastry",
+       "price": 65
+      },
+      {
+       "id": "o6-c1-i5",
+       "name": "White Forest Pastry",
+       "price": 60
+      },
+      {
+       "id": "o6-c1-i6",
+       "name": "Walnut Brownie",
+       "price": 75
+      },
+      {
+       "id": "o6-c1-i7",
+       "name": "Almond Muffin",
+       "price": 75
+      },
+      {
+       "id": "o6-c1-i8",
+       "name": "Chocolate Muffin",
+       "price": 40
+      },
+      {
+       "id": "o6-c1-i9",
+       "name": "Egg Puff",
+       "price": 25
+      },
+      {
+       "id": "o6-c1-i10",
+       "name": "Jeera Cookies (250Gms)",
+       "price": 135
+      },
+      {
+       "id": "o6-c1-i11",
+       "name": "Cornflake Cookies (250Gms)",
+       "price": 145
+      },
+      {
+       "id": "o6-c1-i12",
+       "name": "Almond Cookies(250Gms)",
+       "price": 160
+      },
+      {
+       "id": "o6-c1-i13",
+       "name": "Kaju Nankhatai (250Gms)",
+       "price": 135
+      },
+      {
+       "id": "o6-c1-i14",
+       "name": "Tuti Futi Cookies (250Gms)",
+       "price": 135
+      },
+      {
+       "id": "o6-c1-i15",
+       "name": "Jeera Khari (250Gms)",
+       "price": 95
+      },
+      {
+       "id": "o6-c1-i16",
+       "name": "Butter Khari (250Gms)",
+       "price": 95
+      },
+      {
+       "id": "o6-c1-i17",
+       "name": "Chocolate Doughnuts",
+       "price": 50
+      },
+      {
+       "id": "o6-c1-i18",
+       "name": "Choco Chips Doughnuts",
+       "price": 56
+      },
+      {
+       "id": "o6-c1-i19",
+       "name": "Choco Chips Brownie",
+       "price": 70
+      },
+      {
+       "id": "o6-c1-i20",
+       "name": "Chocolate Walnut Brownie",
+       "price": 80
+      },
+      {
+       "id": "o6-c1-i21",
+       "name": "Chocolate Mousse",
+       "price": 65
+      },
+      {
+       "id": "o6-c1-i22",
+       "name": "Hazelnut Pastry",
+       "price": 85
+      },
+      {
+       "id": "o6-c1-i23",
+       "name": "Blueberry Pastry",
+       "price": 75
+      },
+      {
+       "id": "o6-c1-i24",
+       "name": "Red Velvet Pastry",
+       "price": 80
+      },
+      {
+       "id": "o6-c1-i25",
+       "name": "Veg Grill Sandwich",
+       "price": 58
+      },
+      {
+       "id": "o6-c1-i26",
+       "name": "Cheese Grill Sandwich",
+       "price": 65
+      },
+      {
+       "id": "o6-c1-i27",
+       "name": "Egg Grill Sandwich",
+       "price": 70
+      },
+      {
+       "id": "o6-c1-i28",
+       "name": "Chicken Grill Sandwich",
+       "price": 95
+      },
+      {
+       "id": "o6-c1-i29",
+       "name": "Cheese Masala Grill Sandwich",
+       "price": 75
+      },
+      {
+       "id": "o6-c1-i30",
+       "name": "Omlet Cheese Sandwich",
+       "price": 90
+      },
+      {
+       "id": "o6-c1-i31",
+       "name": "Omlet Cheese Grilled Sandwich",
+       "price": 95
+      },
+      {
+       "id": "o6-c1-i32",
+       "name": "Paneer Grilled Sandwich",
+       "price": 95
+      },
+      {
+       "id": "o6-c1-i33",
+       "name": "Veg Burger",
+       "price": 60
+      },
+      {
+       "id": "o6-c1-i34",
+       "name": "Chicken Burger",
+       "price": 95
+      },
+      {
+       "id": "o6-c1-i35",
+       "name": "Corn Cheese Sandwich",
+       "price": 75
+      },
+      {
+       "id": "o6-c1-i36",
+       "name": "Water Melon Juice",
+       "price": 65
+      },
+      {
+       "id": "o6-c1-i37",
+       "name": "Pineapple Juice",
+       "price": 65
+      },
+      {
+       "id": "o6-c1-i38",
+       "name": "Orange Juice",
+       "price": 65
+      },
+      {
+       "id": "o6-c1-i39",
+       "name": "Mosambi Juice",
+       "price": 65
+      },
+      {
+       "id": "o6-c1-i40",
+       "name": "Lime Juice",
+       "price": 30
+      },
+      {
+       "id": "o6-c1-i41",
+       "name": "Fresh Lime Soda",
+       "price": 40
+      },
+      {
+       "id": "o6-c1-i42",
+       "name": "Chiku Milkshake",
+       "price": 70
+      },
+      {
+       "id": "o6-c1-i43",
+       "name": "Vanila Milkshake",
+       "price": 70
+      },
+      {
+       "id": "o6-c1-i44",
+       "name": "Strawberry Milkshake",
+       "price": 70
+      },
+      {
+       "id": "o6-c1-i45",
+       "name": "Oreo Milkshake",
+       "price": 75
+      },
+      {
+       "id": "o6-c1-i46",
+       "name": "Apple Milkshake",
+       "price": 85
+      },
+      {
+       "id": "o6-c1-i47",
+       "name": "Kit Kat Milksake",
+       "price": 75
+      },
+      {
+       "id": "o6-c1-i48",
+       "name": "Virgin Mojito",
+       "price": 75
+      },
+      {
+       "id": "o6-c1-i49",
+       "name": "Blue Lagoon",
+       "price": 75
+      },
+      {
+       "id": "o6-c1-i50",
+       "name": "Water Melon",
+       "price": 75
+      },
+      {
+       "id": "o6-c1-i51",
+       "name": "Strawberry Litchi Blast",
+       "price": 85
+      },
+      {
+       "id": "o6-c1-i52",
+       "name": "White Sauce Pene Pasta",
+       "price": 130
+      },
+      {
+       "id": "o6-c1-i53",
+       "name": "Red Sauce Pene Pasta",
+       "price": 130
+      },
+      {
+       "id": "o6-c1-i54",
+       "name": "Veg Momos",
+       "price": 70
+      },
+      {
+       "id": "o6-c1-i55",
+       "name": "Paneer Momos",
+       "price": 80
+      },
+      {
+       "id": "o6-c1-i56",
+       "name": "Chicken Momos",
+       "price": 85
+      },
+      {
+       "id": "o6-c1-i57",
+       "name": "Mix Sprout Salad",
+       "price": 60
+      },
+      {
+       "id": "o6-c1-i58",
+       "name": "Mexican Salad",
+       "price": 65
+      },
+      {
+       "id": "o6-c1-i59",
+       "name": "Millet Salad",
+       "price": 70
+      },
+      {
+       "id": "o6-c1-i60",
+       "name": "Chicken Salad",
+       "price": 95
+      },
+      {
+       "id": "o6-c1-i61",
+       "name": "Veg Clear",
+       "price": 55
+      },
+      {
+       "id": "o6-c1-i62",
+       "name": "Limon Coriander",
+       "price": 55
+      },
+      {
+       "id": "o6-c1-i63",
+       "name": "Sweet Corn",
+       "price": 60
+      },
+      {
+       "id": "o6-c1-i64",
+       "name": "Extra Cheese",
+       "price": 30
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Relish",
+   "cats": [
+    {
+     "name": "Non-veg",
+     "items": [
+      {
+       "id": "o7-c0-i0",
+       "name": "Chicken Strips (5 pcs)",
+       "price": null
+      },
+      {
+       "id": "o7-c0-i1",
+       "name": "Chicken Lollipop (5 pcs)",
+       "price": null
+      },
+      {
+       "id": "o7-c0-i2",
+       "name": "Chicken Wings (5 pcs)",
+       "price": null
+      },
+      {
+       "id": "o7-c0-i3",
+       "name": "Chicken Cocktail Roll",
+       "price": null
+      },
+      {
+       "id": "o7-c0-i4",
+       "name": "Chicken Crispy Roll",
+       "price": null
+      },
+      {
+       "id": "o7-c0-i5",
+       "name": "Chicken Crispy Cheese Roll",
+       "price": null
+      },
+      {
+       "id": "o7-c0-i6",
+       "name": "Chicken Peri Peri Roll",
+       "price": null
+      },
+      {
+       "id": "o7-c0-i7",
+       "name": "Chicken Crispy Loaded Fries",
+       "price": null
+      },
+      {
+       "id": "o7-c0-i8",
+       "name": "Chicken Cheese Crispy Loaded Fries",
+       "price": null
+      },
+      {
+       "id": "o7-c0-i9",
+       "name": "Chicken Chips Loaded",
+       "price": null
+      },
+      {
+       "id": "o7-c0-i10",
+       "name": "Chicken Grilled Sandwich",
+       "price": null
+      },
+      {
+       "id": "o7-c0-i11",
+       "name": "Chicken Cheese Grilled Sandwich",
+       "price": null
+      },
+      {
+       "id": "o7-c0-i12",
+       "name": "Chicken Burger",
+       "price": null
+      },
+      {
+       "id": "o7-c0-i13",
+       "name": "Chicken Cheese Burger",
+       "price": null
+      },
+      {
+       "id": "o7-c0-i14",
+       "name": "Chicken Zinger Burger",
+       "price": null
+      },
+      {
+       "id": "o7-c0-i15",
+       "name": "Chicken Cheese Zinger Burger",
+       "price": null
+      }
+     ]
+    },
+    {
+     "name": "Veg",
+     "items": [
+      {
+       "id": "o7-c1-i0",
+       "name": "Paneer Roll",
+       "price": null
+      },
+      {
+       "id": "o7-c1-i1",
+       "name": "Paneer Cheese Roll",
+       "price": null
+      },
+      {
+       "id": "o7-c1-i2",
+       "name": "French Fries",
+       "price": null
+      },
+      {
+       "id": "o7-c1-i3",
+       "name": "Loaded Fries",
+       "price": null
+      },
+      {
+       "id": "o7-c1-i4",
+       "name": "Cheese Loaded Fries",
+       "price": null
+      },
+      {
+       "id": "o7-c1-i5",
+       "name": "Peri Peri Fries",
+       "price": null
+      },
+      {
+       "id": "o7-c1-i6",
+       "name": "Peri Peri Loaded Fries",
+       "price": null
+      },
+      {
+       "id": "o7-c1-i7",
+       "name": "Peri Peri Cheese Loaded Fries",
+       "price": null
+      },
+      {
+       "id": "o7-c1-i8",
+       "name": "Veg Grilled Sandwich",
+       "price": null
+      },
+      {
+       "id": "o7-c1-i9",
+       "name": "Veg Cheese Grilled Sandwich",
+       "price": null
+      },
+      {
+       "id": "o7-c1-i10",
+       "name": "Paneer Sandwich",
+       "price": null
+      },
+      {
+       "id": "o7-c1-i11",
+       "name": "Paneer Cheese Sandwich",
+       "price": null
+      },
+      {
+       "id": "o7-c1-i12",
+       "name": "Veg Burger",
+       "price": null
+      },
+      {
+       "id": "o7-c1-i13",
+       "name": "Veg Cheese Burger",
+       "price": null
+      }
+     ]
+    },
+    {
+     "name": "Maggi",
+     "items": [
+      {
+       "id": "o7-c2-i0",
+       "name": "Plain Maggi",
+       "price": null
+      },
+      {
+       "id": "o7-c2-i1",
+       "name": "Masala Maggi",
+       "price": null
+      },
+      {
+       "id": "o7-c2-i2",
+       "name": "Cheese Maggi",
+       "price": null
+      },
+      {
+       "id": "o7-c2-i3",
+       "name": "Butter Maggi",
+       "price": null
+      },
+      {
+       "id": "o7-c2-i4",
+       "name": "Paneer Maggi",
+       "price": null
+      },
+      {
+       "id": "o7-c2-i5",
+       "name": "Chicken Maggi",
+       "price": null
+      },
+      {
+       "id": "o7-c2-i6",
+       "name": "Masala Cheese Maggi",
+       "price": null
+      }
+     ]
+    },
+    {
+     "name": "Shakes & cold drinks",
+     "items": [
+      {
+       "id": "o7-c3-i0",
+       "name": "Sitafal Shake",
+       "price": null
+      },
+      {
+       "id": "o7-c3-i1",
+       "name": "Chiku Shake",
+       "price": null
+      },
+      {
+       "id": "o7-c3-i2",
+       "name": "Banana Shake",
+       "price": null
+      },
+      {
+       "id": "o7-c3-i3",
+       "name": "Apple Shake",
+       "price": null
+      },
+      {
+       "id": "o7-c3-i4",
+       "name": "Mango Shake",
+       "price": null
+      },
+      {
+       "id": "o7-c3-i5",
+       "name": "Strawberry Shake",
+       "price": null
+      },
+      {
+       "id": "o7-c3-i6",
+       "name": "Oreo Shake",
+       "price": null
+      },
+      {
+       "id": "o7-c3-i7",
+       "name": "Kit Kat Shake",
+       "price": null
+      },
+      {
+       "id": "o7-c3-i8",
+       "name": "Chocolate Shake",
+       "price": null
+      },
+      {
+       "id": "o7-c3-i9",
+       "name": "Cold Coffee",
+       "price": null
+      },
+      {
+       "id": "o7-c3-i10",
+       "name": "Cold Horlicks",
+       "price": null
+      },
+      {
+       "id": "o7-c3-i11",
+       "name": "Cold Bournvita",
+       "price": null
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "mess": {
+  "Breakfast": [
+   {
+    "role": "Main",
+    "Mon": "Aloo Pyaaz Paratha",
+    "Tue": "Onion Poha",
+    "Wed": "Puri Bhaji",
+    "Thu": "Misal Pav",
+    "Fri": "Masala Idli",
+    "Sat": "Veg Sandwich",
+    "Sun": "Podi Masala Dosa"
+   },
+   {
+    "role": "Accompaniment",
+    "Mon": "Curd + Pickle",
+    "Tue": "Lemon + Sev + Curd",
+    "Wed": "Onion + Lemon",
+    "Thu": "Farsaan + Lemon + Onion",
+    "Fri": "Sambhar + Chutney",
+    "Sat": "Ketchup + Green Chutney",
+    "Sun": "Sambhar + Chutney"
+   },
+   {
+    "role": "Egg",
+    "Mon": "Omelette or Boiled Egg",
+    "Tue": "Omelette or Boiled Egg",
+    "Wed": "Omelette or Boiled Egg",
+    "Thu": "Omelette or Boiled Egg",
+    "Fri": "Omelette or Boiled Egg",
+    "Sat": "Omelette or Boiled Egg",
+    "Sun": "Omelette or Boiled Egg"
+   },
+   {
+    "role": "Bread",
+    "Mon": "Bread+Butter+Jam",
+    "Tue": "Bread+Butter+Jam",
+    "Wed": "Bread+Butter+Jam",
+    "Thu": "Bread+Butter+Jam",
+    "Fri": "Bread+Butter+Jam",
+    "Sat": "Bread+Butter+Jam",
+    "Sun": "Bread+Butter+Jam"
+   },
+   {
+    "role": "Health Drink",
+    "Mon": "Bournvita",
+    "Tue": "Bournvita",
+    "Wed": "Bournvita",
+    "Thu": "Bournvita",
+    "Fri": "Bournvita",
+    "Sat": "Bournvita",
+    "Sun": "Bournvita"
+   },
+   {
+    "role": "Milk",
+    "Mon": "Hot & Cold Milk",
+    "Tue": "Hot & Cold Milk",
+    "Wed": "Hot & Cold Milk",
+    "Thu": "Hot & Cold Milk",
+    "Fri": "Hot & Cold Milk",
+    "Sat": "Hot & Cold Milk",
+    "Sun": "Hot & Cold Milk"
+   },
+   {
+    "role": "Beverage",
+    "Mon": "Tea & Coffee",
+    "Tue": "Tea & Coffee",
+    "Wed": "Tea & Coffee",
+    "Thu": "Tea & Coffee",
+    "Fri": "Tea & Coffee",
+    "Sat": "Tea & Coffee",
+    "Sun": "Tea & Coffee"
+   },
+   {
+    "role": "Cereal",
+    "Mon": "Cornflakes",
+    "Tue": "Cornflakes",
+    "Wed": "Cornflakes",
+    "Thu": "Cornflakes",
+    "Fri": "Cornflakes",
+    "Sat": "Cornflakes",
+    "Sun": "Cornflakes"
+   }
+  ],
+  "Lunch": [
+   {
+    "role": "Gravy 1",
+    "Mon": "Malai Kofta Gravy",
+    "Tue": "Punjabi Rajma",
+    "Wed": "Soya Chilli",
+    "Thu": "Chhole Amritsari",
+    "Fri": "Methi Matar Masala",
+    "Sat": "Dum Aloo Gravy",
+    "Sun": "Pyaaz Paratha"
+   },
+   {
+    "role": "Gravy 2",
+    "Mon": "Black Chana Masala",
+    "Tue": "Tawa Veg Dry",
+    "Wed": "Aloo Methi",
+    "Thu": "Beans Dry",
+    "Fri": "Bhindi Do Pyaaza",
+    "Sat": "Lauki Chana Dry",
+    "Sun": "Thecha + Tomato Chutney"
+   },
+   {
+    "role": "Dal",
+    "Mon": "Dal Amritsari",
+    "Tue": "Dal Kolhapuri",
+    "Wed": "Dal Makhni",
+    "Thu": "Veg Dal",
+    "Fri": "Masoor Dal",
+    "Sat": "Dal Punjabi",
+    "Sun": "Dal Fry"
+   },
+   {
+    "role": "Rice",
+    "Mon": "Plain Rice",
+    "Tue": "Plain Rice",
+    "Wed": "Jeera Rice",
+    "Thu": "Plain Rice",
+    "Fri": "Plain Rice",
+    "Sat": "Plain Rice",
+    "Sun": "Veg Biryani"
+   },
+   {
+    "role": "Bread",
+    "Mon": "Chapati",
+    "Tue": "Chapati",
+    "Wed": "Chapati",
+    "Thu": "Puri + Chapati",
+    "Fri": "Chapati",
+    "Sat": "Chapati",
+    "Sun": "Chapati"
+   },
+   {
+    "role": "Soup",
+    "Mon": "Rasam",
+    "Tue": "Sambhar",
+    "Wed": "Rasam",
+    "Thu": "Sambhar",
+    "Fri": "Rasam",
+    "Sat": "Sambhar",
+    "Sun": "Kokam Rasam"
+   },
+   {
+    "role": "Papad",
+    "Mon": "Fryums",
+    "Tue": "Roasted Papad",
+    "Wed": "Fryums",
+    "Thu": "Fried Papad",
+    "Fri": "Roasted Papad",
+    "Sat": "Fried Papad",
+    "Sun": "Roasted Papad"
+   },
+   {
+    "role": "Salad",
+    "Mon": "Green Salad",
+    "Tue": "Masala Chopped Salad",
+    "Wed": "Carrot Beetroot Salad",
+    "Thu": "Toss Salad",
+    "Fri": "Masala Chopped Salad",
+    "Sat": "Sprout Moong Salad",
+    "Sun": "Macaroni Salad"
+   },
+   {
+    "role": "Curd",
+    "Mon": "Plain Curd",
+    "Tue": "",
+    "Wed": "Plain Curd",
+    "Thu": "",
+    "Fri": "Plain Curd",
+    "Sat": "",
+    "Sun": "Veg Raita"
+   },
+   {
+    "role": "Drink",
+    "Mon": "",
+    "Tue": "Buttermilk",
+    "Wed": "",
+    "Thu": "Fresh Lime Water",
+    "Fri": "",
+    "Sat": "Punjabi Lassi",
+    "Sun": ""
+   },
+   {
+    "role": "Dessert",
+    "Mon": "Balushahi / Boondi Laddoo",
+    "Tue": "Moong Dal Halwa",
+    "Wed": "Gulab Jamun",
+    "Thu": "Sevai Kheer",
+    "Fri": "Malai Sandwich",
+    "Sat": "Shahi Tukda / Fruit Custard",
+    "Sun": "******"
+   }
+  ],
+  "Snacks": [
+   {
+    "role": "Main",
+    "Mon": "Maggi",
+    "Tue": "Schezwan Roll",
+    "Wed": "Veg Chowmein",
+    "Thu": "Vada Pav",
+    "Fri": "Aloo Pyaaz Pakode",
+    "Sat": "Dabeli",
+    "Sun": "French Fries"
+   },
+   {
+    "role": "Beverage",
+    "Mon": "Tea & Coffee",
+    "Tue": "Tea & Coffee",
+    "Wed": "Tea & Coffee",
+    "Thu": "Tea & Coffee",
+    "Fri": "Tea & Coffee",
+    "Sat": "Tea & Coffee",
+    "Sun": "Tea & Coffee"
+   }
+  ],
+  "Dinner": [
+   {
+    "role": "Gravy 1",
+    "Mon": "Paneer Butter Masala",
+    "Tue": "Dahi Kachori",
+    "Wed": "Paneer Biryani",
+    "Thu": "Mushroom Masala",
+    "Fri": "Paneer Lazeez / Bhurji",
+    "Sat": "Rajma Masala",
+    "Sun": "Amritsari Chhole"
+   },
+   {
+    "role": "Gravy 2",
+    "Mon": "Aloo Beans Fry",
+    "Tue": "Bhindi Masala",
+    "Wed": "Gobhi Masala",
+    "Thu": "Mix Veg",
+    "Fri": "Aloo Baingan",
+    "Sat": "Soya Kheema",
+    "Sun": "Bhature"
+   },
+   {
+    "role": "Dal",
+    "Mon": "Dal Fry",
+    "Tue": "Dal Punjabi",
+    "Wed": "Dal Kolhapuri",
+    "Thu": "Dal Makhani",
+    "Fri": "Dal Tadka",
+    "Sat": "Dal Kolhapuri",
+    "Sun": "Dahi Sev Puri / Pani Puri"
+   },
+   {
+    "role": "Rice",
+    "Mon": "Plain Rice",
+    "Tue": "Plain Rice",
+    "Wed": "Plain Rice",
+    "Thu": "Jeera Rice",
+    "Fri": "Jeera Rice",
+    "Sat": "Plain Rice",
+    "Sun": "Masala Khichadi"
+   },
+   {
+    "role": "Bread",
+    "Mon": "Chapati",
+    "Tue": "Chapati",
+    "Wed": "Chapati",
+    "Thu": "Chapati",
+    "Fri": "Chapati + Paratha",
+    "Sat": "Chapati",
+    "Sun": "Chapati"
+   },
+   {
+    "role": "Salad",
+    "Mon": "Toss Salad",
+    "Tue": "",
+    "Wed": "Mix Salad",
+    "Thu": "",
+    "Fri": "Sirka Onion",
+    "Sat": "",
+    "Sun": "Onion Salad"
+   },
+   {
+    "role": "Curd/Raita",
+    "Mon": "Boondi Raita",
+    "Tue": "Tomato Soup + Croutons",
+    "Wed": "Veg Raita",
+    "Thu": "Hot n Sour Soup",
+    "Fri": "Boondi Raita",
+    "Sat": "Veg Soup",
+    "Sun": "Choco Bite"
+   },
+   {
+    "role": "Non-Veg/Egg",
+    "Mon": "Punjabi Egg Curry",
+    "Tue": "Plain Curd",
+    "Wed": "Chicken Biryani",
+    "Thu": "Plain Curd",
+    "Fri": "Chicken Patiala / Egg Bhurji",
+    "Sat": "Plain Curd",
+    "Sun": "******"
+   },
+   {
+    "role": "Fruit",
+    "Mon": "Fruit",
+    "Tue": "",
+    "Wed": "Fruit",
+    "Thu": "",
+    "Fri": "Fruit",
+    "Sat": "",
+    "Sun": ""
+   }
+  ]
+ }
+}
